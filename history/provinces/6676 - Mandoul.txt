@@ -1,8 +1,8 @@
 #6676 - Mandoul
 
-owner = SAO
-controller = SAO
-add_core = SAO
+owner = YAO
+controller = YAO
+add_core = YAO
 culture = bilala 
 religion = sunni
 capital = "Koumra"
@@ -14,3 +14,8 @@ base_manpower = 1
 is_city = yes
 
 discovered_by = sub_saharan
+
+add_permanent_province_modifier = {
+    name = vu_malaria_present
+    duration = -1
+}

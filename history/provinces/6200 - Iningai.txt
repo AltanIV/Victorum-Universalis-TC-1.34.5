@@ -13,5 +13,10 @@ base_manpower = 1
 capital = "Iningai"
 is_city = yes
 
+add_permanent_province_modifier = {
+    name = vu_malaria_present
+    duration = -1
+}
+
 discovered_by = aboriginal_tech
 1619.1.10 = { discovered_by = NED }
