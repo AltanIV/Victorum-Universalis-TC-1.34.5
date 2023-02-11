@@ -1,3 +1,4 @@
+#So there are two ways of connecting this. First is to use coordinates ;start_x;start_y;stop_x;stop_y; which can be gathered by opening bmp map and then refering to how Rob has explained it in the server map room or to do it the automatic way by simply entering -1;-1;-1;-1; which will automatically connect two provinces. 
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 7766;12;sea;1258;-1;-1;-1;-1;Skåne-Sjaelland
 7768;14;sea;5494;-1;-1;-1;-1;Sjaelland-Fyn
@@ -399,10 +400,12 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 134;7672;sea;3012;-1;-1;-1;-1;Wein-Donaustadt
 133;4761;sea;3013;-1;-1;-1;-1;Linz-Traungau
 7591;4711;sea;8355;-1;-1;-1;-1;Altenmuhr-Donauworth
+359;2318;sea;5301;-1;-1;-1;-1;Faiyum-Bahariya
+6500;1233;sea;5301;-1;-1;-1;-1;Sohag-Kharga
+2319;1233;sea;5301;-1;-1;-1;-1;Asyut-Kharga
 6560;1233;sea;5301;-1;-1;-1;-1;Said-Kharga
 1233;6563;sea;5301;-1;-1;-1;-1;Kharga-Esna
-6643;6604;sea;5301;-1;-1;-1;-1;Cara-Ezbet
-5273;2318;sea;5301;-1;-1;-1;-1;Siwa-Bahariya
+5272;6643;sea;5301;-1;-1;-1;-1;Matrouh-Cara
 2318;6565;sea;5301;-1;-1;-1;-1;Bahariya-Abu Minqar
 6565;6559;sea;5301;-1;-1;-1;-1;Abu Minqar-Mut
 6559;1233;sea;5301;-1;-1;-1;-1;Mut-Kharga
@@ -441,35 +444,44 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 6124;6125;sea;6152;-1;-1;-1;-1;Jacareacanga-Trairao
 6119;2935;sea;7324;-1;-1;-1;-1;Altamira-Muturu
 6119;6120;sea;7325;-1;-1;-1;-1;Altamira-Sen_Jose_Porfirio
+6643;3930;sea;5301;-1;-1;-1;-1;Cara-El Hamra
+6643;3932;sea;5301;-1;-1;-1;-1;Cara-Ganbi
+3932;2318;sea;5301;-1;-1;-1;-1;Ganbi-Bahariya
+4323;2318;sea;5301;-1;-1;-1;-1;A'l Nahaya-Bahariya
+2274;3933;sea;3949;-1;-1;-1;-1;Air-Oubandawaki
+3941;3933;sea;3949;-1;-1;-1;-1;Assamaka-Oubandawaki
+3929;6604;sea;5301;-1;-1;-1;-1;Gibra-Ezbet
 2929;2928;sea;6168;-1;-1;-1;-1;Para-Tucurui
+6550;6553;sea;6548;-1;-1;-1;-1;Firan-Dahab
 2805;742;sea;7335;-1;-1;-1;-1;Uyapari-Angostura
-6603;6954;sea;1795;2994;1434;2998;1377;Jalu-Tazirbu
-6954;6955;sea;6671;2999;1372;3003;1358;Tazirbu-Buzaymah
-6955;6958;sea;6671;3004;1359;3014;1350;Buzaymah-Al-Jawf
+5304;6602;sea;1795;-1;-1;-1;-1;Al Wahat-Awjilah
+6603;6954;sea;1795;-1;-1;-1;-1;Jalu-Tazirbu
+6954;6955;sea;6671;-1;-1;-1;-1;Tazirbu-Buzaymah
+6955;6958;sea;6671;-1;-1;-1;-1;Buzaymah-Al-Jawf
 6958;3934;sea;6671;-1;-1;-1;-1;Al-Jawf-Al Kufrah
 3934;3935;sea;6671;-1;-1;-1;-1;Al Kufrah-At Tallab
 4270;2328;sea;8738;-1;-1;-1;-1;Maan-Tayma
 380;7458;sea;8738;-1;-1;-1;-1;Kerak-Al-Qurayyat
-7458;4272;sea;8739;3221;1513;3225;1510;Al-Qurayyat-Jawf
-2328;4272;sea;8739;3231;1496;3236;1496;Tayma-Jawf
-383;4272;sea;8739;3252;1462;3258;1464;Tabuk-Jawf
-4272;7459;sea;8739;3266;1490;3266;1494;Jawf-Sakaka
-7459;2338;sea;8739;3316;1481;3318;1475;Sakaka-Batin
-4272;393;sea;8739;3278;1457;3284;1455;Jawf-Jabal Shammar
-5231;393;sea;8739;-1;-1;3247;1438;Dedan-Jabal Shammar
+7458;4272;sea;8739;-1;-1;-1;-1;Al-Qurayyat-Jawf
+2328;4272;sea;8739;-1;-1;-1;-1;Tayma-Jawf
+383;4272;sea;8739;-1;-1;-1;-1;Tabuk-Jawf
+4272;7459;sea;8739;-1;-1;-1;-1;Jawf-Sakaka
+7459;2338;sea;8739;-1;-1;-1;-1;Sakaka-Batin
+4272;393;sea;8739;-1;-1;-1;-1;Jawf-Jabal Shammar
+5231;393;sea;8739;-1;-1;-1;-1;Dedan-Jabal Shammar
 4273;5232;sea;8739;-1;-1;-1;-1;Khaybar-Ghazalah
 5232;4276;sea;8739;-1;-1;-1;-1;Ghazalah-Otaibah
 4276;2332;sea;8739;-1;-1;-1;-1;Otaibah-Truba
 4276;2337;sea;8739;-1;-1;-1;-1;Otaibah-Qassim
-393;2337;sea;8739;3310;1441;3314;1440;Jabal Shammar-Qassim
-2337;2338;sea;8739;3335;1454;3346;1456;Qassim-Batin
+393;2337;sea;8739;-1;-1;-1;-1;Jabal Shammar-Qassim
+2337;2338;sea;8739;-1;-1;-1;-1;Qassim-Batin
 4276;4274;sea;8739;-1;-1;-1;-1;Otaibah-Sudayr
 2336;2332;sea;8739;-1;-1;-1;-1;Washm-Truba
-2337;5256;sea;8739;3360;1443;3372;1443;Qassim-Summan
+2337;5256;sea;8739;-1;-1;-1;-1;Qassim-Summan
 4274;5256;sea;8739;-1;-1;-1;-1;Sudayr-Summan
-2339;7461;sea;1779;3439;1364;3452;1370;Yabrin-Batha
+2339;7461;sea;1779;-1;-1;-1;-1;Yabrin-Batha
 2335;2332;sea;8739;-1;-1;-1;-1;Dawasir-Truba
-391;2335;sea;1779;-1;-1;3340;1293;Najran-Dawasir
+391;2335;sea;1779;-1;-1;-1;-1;Najran-Dawasir
 2457;2472;sea;1794;-1;-1;-1;-1;Mzab-Ouargla
 2472;2456;sea;1794;-1;-1;-1;-1;Ouargla-Touggourt
 2472;4567;sea;1794;-1;-1;-1;-1;Ouargla-Ghadames
@@ -559,7 +571,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 3954;3952;sea;1794;-1;-1;-1;-1;Ain Salih-Alabessa
 3953;3951;sea;1794;-1;-1;-1;-1;Tamanrasset-Djanet
 3953;3950;sea;1794;-1;-1;-1;-1;Tamanrasset-In Guezzam
-3941;2274;sea;3949;-1;-1;-1;-1;Assamaka-Air
 2275;2475;sea;3947;-1;-1;-1;-1;Tenere-Djado
 2284;2277;sea;3947;-1;-1;-1;-1;Manga-Kawar
 2277;2475;sea;3947;-1;-1;-1;-1;Kawar-Djado
