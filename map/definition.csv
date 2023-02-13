@@ -3925,8 +3925,8 @@ province;red;green;blue;x;x
 3924;100;13;124;RNW;
 3925;100;13;125;RNW;
 3926;100;13;126;RNW;
-3927;100;13;127;RNW;
-3928;100;13;128;RNW;
+3927;105;63;68;Lantau;
+3928;91;197;24;Hong Kong;
 3929;28;227;23;El Girba;
 3930;52;13;54;El Hamra;
 3931;93;78;170;Az Zaytun;
@@ -8678,7 +8678,7 @@ province;red;green;blue;x;x
 8677;153;85;112;Myinsaing;x
 8678;2;146;19;Tagaung;x
 8679;124;2;58;Myede;x
-8680;160;22;216;Sambas;x
+8680;160;22;216;Serasan;x
 8681;224;126;134;Koh Kong;x
 8682;140;224;91;Labansiek;x
 8683;215;196;13;Srey Santhor;x
