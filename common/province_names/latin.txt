@@ -141,9 +141,20 @@
 262 = "Cracovia"
 
 # Russia, Ukraine and Central Asia
-285 = "Cafa"
+282 = "Ginestra"
+285 = "Caffa"
+286 = "Tana"
 295 = "Mosca"
+327 = "Laiazzo"
 454 = "Samarcanda"
+462 = "Lo Bati"
+1756 = "Licostomo"
+1856 = "Sebastopolis"
+3164 = "Costanza"
+3245 = "Vosporo"
+4531 = "San Giorgio"
+5557 = "Layso"
+7278 = "Maurocastro"
 
 # Mythical land of Sweden
 1 = "Stoccolma"
@@ -188,7 +199,6 @@
 4779 = "Gallipoli"
 4780 = "Locrida"
 
-
 # Levant
 379 = "Gerusalemme"
 382 = "Damasco"
@@ -202,6 +212,7 @@
 # Africa
 334 = "Tangeri"
 337 = "Orano"
+338 = "Algeri"
 339 = "Cabilia"
 340 = "Costantina"
 341 = "Tunisi"
@@ -218,7 +229,6 @@
 2473 = "Susa"
 2954 = "Gerba"
 1177 = { "Capo" "Città del Capo" }
-
 
 # Atlantic and New World
 366 = "Canarie"
@@ -252,3 +262,4 @@
 1993 = "Isole Marshall"
 2002 = "Isole Galapagos"
 2025 = "Georgia del Sud"
+
