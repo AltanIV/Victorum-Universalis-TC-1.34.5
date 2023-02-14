@@ -666,6 +666,8 @@ can_colonize_province = {
 				colonial_region = colonial_cuba
 				colonial_region = colonial_la_plata
 				
+				area = hispaniola_area
+				
 				#Spanish Africa
 				area = northern_morocco_area
 				area = western_sahara_area
@@ -852,6 +854,7 @@ can_colonize_province = {
 			OR = {
 				#French America
 				area = cayanne_area
+				area = dominica_area
 				
 				#French Oceania
 				colonial_region = colonial_new_caledonia
@@ -1351,62 +1354,10 @@ can_colonize_province = {
 				#American Africa
 				area = grain_coast_area #Liberia
 				
-				#New places that were colonised ONLY by Great Britain or the USA go here
-			}
-		}
-		
-		allow = {
-			OR = {
-				has_global_flag = vu_no_historical_colonization
-				FROM = { 
-					OR = {
-						technology_group = north_american
-						technology_group = mesoamerican
-						technology_group = south_american
-						technology_group = andean
-						technology_group = high_american
-						technology_group = east_african
-						technology_group = central_african
-						technology_group = sub_saharan
-						technology_group = aboriginal_tech
-						technology_group = rapanuan
-						technology_group = polynesian_tech
-						technology_group = papuan
-						AND = {
-							is_colonial_nation = yes
-							capital_scope = { colonial_region = ROOT }
-						}
-					}
-				}
-			}
-		}
-    }
-	
-	#Spanish and French
-	condition = {
-		tooltip = "VU_Historical_Colonization"
-		
-        potential = {
-			NOT = {				
-				FROM = { culture_group = french }
-				FROM = { primary_culture = castillian }
-				FROM = { primary_culture = leonese }
-				FROM = { primary_culture = aragonese }
-				FROM = { primary_culture = catalan }
-				FROM = { primary_culture = andalucian }
-				FROM = { primary_culture = galician }
-				FROM = { primary_culture = katsila }
-				FROM = { primary_culture = mexican }
-				FROM = { primary_culture = platinean }
-			}
-			
-			FROM = { ai = yes }
-			
-			OR = {
-				#Spanish-French America
-				colonial_region = colonial_hispaniola
+				#American Oceania
+				area = northern_polynesia_area #Hawaii
 				
-				#New CRs that were colonised by Spain or France go here
+				#New places that were colonised ONLY by Great Britain or the USA go here
 			}
 		}
 		
@@ -2114,10 +2065,7 @@ can_colonize_province_siberian_frontier = {
 		}
 		
 		allow = {
-			OR = {
-				FROM = { is_colonial_nation = no }
-				FROM = { is_former_colonial_nation = yes }
-			}
+			always = no
 		}
 	}
 	
@@ -2131,7 +2079,6 @@ can_colonize_province_siberian_frontier = {
 		}
 		
 		allow = {
-			
 			FROM = { capital_scope = { continent = ROOT } }
 		}
 	}
