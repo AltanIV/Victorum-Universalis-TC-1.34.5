@@ -358,7 +358,7 @@ can_colonize_province = {
 	
 	### Colonial Nations can't colonize other CRs
 	#Condition - disables colonize button for situations included in potential
-	condition = {					
+	condition = {
 		tooltip = "VU_Colonial_Region_Colonisation"
 		
 		#Potential - what causes the button to be disabled?
@@ -373,7 +373,7 @@ can_colonize_province = {
 	}
 	
 	### American Subjects can't colonize other continents
-	condition = {					
+	condition = {
 		tooltip = "VU_Subject_Colonisation"
 		
 		potential = {
@@ -1775,33 +1775,6 @@ can_colonize_province = {
 			}
 		}
     }
-		
-#		allow = {
-#			OR = {
-#				has_global_flag = vu_no_historical_colonization
-#				FROM = { 
-#					OR = {
-#						technology_group = north_american
-#						technology_group = mesoamerican
-#						technology_group = south_american
-#						technology_group = andean
-#						technology_group = high_american
-#						technology_group = east_african
-#						technology_group = central_african
-#						technology_group = sub_saharan
-#						technology_group = aboriginal_tech
-#						technology_group = rapanuan
-#						technology_group = polynesian_tech
-#						technology_group = papuan
-#						AND = {
-#							is_colonial_nation = yes
-#							capital_scope = { colonial_region = ROOT }
-#						}
-#					}
-#				}
-#			}
-#		}
-#   }
 	
 	#British, Spanish and French
 	condition = {
