@@ -3812,3 +3812,7 @@
  
  #VU Religions
  xxxx:0 "Orthodox"
+
+#VU : fix to left over vanilla loc
+
+ ATTACK_BONUS_IN_CAPITAL_TERRAIN_IN_PROV: "§G+1 Combat Bonus§! for us due to same terrain as in our Capital"
