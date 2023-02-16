@@ -617,7 +617,18 @@ goods_back = {
 	}
 	else_if = {
 		limit = { is_variable_equal = { which = goods_num value = 10} }
-		change_trade_goods = gold	
+		change_trade_goods = gold
+		if = {
+			limit = {
+				has_production_building_trigger = yes
+			}
+			OR = {
+				remove_building = workshop
+				remove_building = counting_house
+				remove_building = treasury
+				remove_building = factory
+			}
+		}
 	}
 	else_if = {
 		limit = { is_variable_equal = { which = goods_num value = 11} }
@@ -822,6 +833,17 @@ goods_back = {
 	else_if = {
 		limit = { is_variable_equal = { which = goods_num value = 60} }
 		change_trade_goods = silver	
+		if = {
+			limit = {
+				has_production_building_trigger = yes
+			}
+			OR = {
+				remove_building = workshop
+				remove_building = counting_house
+				remove_building = treasury
+				remove_building = factory
+			}
+		}
 	}
 	else_if = {
 		limit = { is_variable_equal = { which = goods_num value = 61} }
