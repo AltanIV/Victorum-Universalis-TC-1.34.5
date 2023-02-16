@@ -3044,11 +3044,17 @@ bamboo = {
 		local_build_cost = -0.2
 	}
 	chance = {
-		factor = 4
+		factor = 15
 		modifier = {
 			factor = 0
-			NOT = { has_climate = tropical }
-			NOT = { continent = asia }
+			NOT = {	region = malaya_region }
+			NOT = {	region = indonesia_region }
+			NOT = {	region = riau_islands_region }
+			NOT = {	region = nusa_tenggara_region }
+			NOT = { region = south_china_region }
+			NOT = { region = japan_region }
+			NOT = { region = borneo_region }
+			NOT = { region = sumatran_region }
 		}
 	}
 }
