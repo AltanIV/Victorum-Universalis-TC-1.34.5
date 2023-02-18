@@ -23,11 +23,462 @@ age_of_discovery = {
 			custom_trigger_tooltip = {
 				tooltip = obj_discover_america_tooltip
 					OR = {
-						north_america = { has_discovered = ROOT }
-						south_america = { has_discovered = ROOT }
-						new_world = { has_discovered = ROOT }
-					}
-				}
+                       AND = {
+					      NOT = { culture_group = scandinavian }
+						  NOT = { culture_group = finno_ugric }
+						  NOT = { culture_group = baltic }
+						  NOT = { culture_group = iberian }
+						  NOT = { culture_group = aquitanian }
+						  NOT = { culture_group = british }
+						  NOT = { culture_group = french }
+						  NOT = { culture_group = brythonic }
+						  NOT = { culture_group = east_slavic }
+						  NOT = { culture_group = west_slavic }
+						  NOT = { culture_group = carpathian }
+						  NOT = { culture_group = west_slavic }
+						  NOT = { culture_group = carpathian }
+						  NOT = { culture_group = dacian }
+						  NOT = { culture_group = illyrian }
+						  NOT = { culture_group = byzantine }
+						  NOT = { culture_group = turkish_g }
+						  NOT = { culture_group = caucasian }
+						  NOT = { culture_group = turko_semitic }
+						  NOT = { culture_group = berber_group }
+						  NOT = { culture_group = sudanese }
+						  NOT = { culture_group = cushitic }
+						  NOT = { culture_group = southwestern_bantu }
+						  NOT = { culture_group = khoisan_group }
+						  NOT = { culture_group = southern_african }
+						  NOT = { culture_group = african }
+						  NOT = { culture_group = great_lakes_group }
+						  NOT = { culture_group = saharan_group }
+						  NOT = { culture_group = iranian }
+						  NOT = { culture_group = tartar }
+						  NOT = { culture_group = altaic }
+						  NOT = { culture_group = evenks }
+						  NOT = { culture_group = korean_g }
+						  NOT = { culture_group = japanese_g }
+						  NOT = { culture_group = tibetan_group }
+						  NOT = { culture_group = southeastasian_group }
+						  NOT = { culture_group = malay }
+						  NOT = { culture_group = filipino_i }
+						  NOT = { culture_group = pacific }
+						  NOT = { culture_group = aboriginal_australian }
+						  NOT = { culture_group = papuan_group }
+						  NOT = { culture_group = burman }
+						  NOT = { culture_group = thai_group }
+						  NOT = { culture_group = eastern_aryan }
+						  NOT = { culture_group = western_aryan }
+						  NOT = { culture_group = dravidian }
+						  NOT = { culture_group = central_indic }
+						  NOT = { culture_group = hindusthani }
+						  NOT = { culture_group = east_angolan }				
+						  NOT = { culture_group = egyptian_group }
+						  NOT = { culture_group = miao_g }
+						  NOT = { culture_group = germanic }
+						  NOT = { culture_group = low_franconian }
+						  NOT = { culture_group = east_asian }
+						  NOT = { culture_group = gaelic }
+						  NOT = { culture_group = west_african }
+						  NOT = { culture_group = mande }
+						  NOT = { culture_group = kongo_group }
+						  NOT = { culture_group = sahelian }
+						  NOT = { culture_group = latin }
+                          OR = {
+                               north_america = {
+                                   has_discovered = ROOT
+                               }
+                               south_america = {
+                                   has_discovered = ROOT
+                               }
+							   new_world = {
+                                   has_discovered = ROOT
+                               }
+                           }
+					   }
+					   AND = {
+                           culture_group = scandinavian
+                           OR = {
+                               greenland_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               newfoundland_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = finno_ugric
+                           OR = {
+                               northeast_america_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               hudson_bay_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   canada_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = baltic
+                           OR = {
+                               northeast_america_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               hudson_bay_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   canada_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+                       AND = {
+                           culture_group = iberian
+						   NOT = { primary_culture = portugese }
+						   NOT = { primary_culture = brazilian }
+						   OR = {
+                               lucayan_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               hispaniola_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   dominica_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = aquitanian
+						   OR = {
+							   southeast_america_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               mississippi_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   carribeans_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = british
+						   NOT = { primary_culture = scottish }
+						   OR = {
+                               massachusetts_bay_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               great_valley_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           primary_culture = scottish
+						   OR = {
+                               panama_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               lower_acadia_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = french
+						   OR = {
+                               lower_acadia_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               south_carolina_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   lower_canada_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = brythonic
+						   OR = {
+                               northeast_america_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               canada_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           primary_culture = russian
+						   OR = {
+                               alaska_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               cascadia_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = east_slavic
+						   NOT = { primary_culture = russian }
+						   OR = {
+                               delaware_valley_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               susquehanna_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           OR = { 
+						       culture_group = west_slavic
+							   culture_group = carpathian
+							   culture_group = dacian
+							   culture_group = illyrian
+							   culture_group = byzantine
+							   culture_group = turkish_g
+							   culture_group = caucasian
+							   culture_group = turko_semitic
+							   culture_group = berber_group
+							   culture_group = sudanese
+							   culture_group = cushitic
+							   culture_group = southwestern_bantu
+							   culture_group = khoisan_group
+							   culture_group = southern_african
+							   culture_group = african
+							   culture_group = great_lakes_group
+							   culture_group = saharan_group
+							   culture_group = iranian
+							   culture_group = tartar
+							   culture_group = altaic
+							   culture_group = evenks
+							   culture_group = korean_g
+							   culture_group = japanese_g
+							   culture_group = tibetan_group
+							   culture_group = southeastasian_group
+							   culture_group = malay
+							   culture_group = filipino_i
+							   culture_group = pacific
+							   culture_group = aboriginal_australian
+							   culture_group = papuan_group
+							   culture_group = burman
+							   culture_group = thai_group
+							   culture_group = eastern_aryan
+							   culture_group = western_aryan
+							   culture_group = dravidian
+							   culture_group = central_indic
+							   culture_group = hindusthani
+							   culture_group = east_angolan
+							   culture_group = egyptian_group
+							   culture_group = miao_g
+						   }
+                           north_america_superregion = {
+                               country_or_non_sovereign_subject_holds = ROOT
+                           }
+                       }
+					   AND = {
+                           primary_culture = portugese
+						   OR = {
+                               bahia_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               rio_grande_do_norte_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   paraiba_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   pernambuco_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   ceara_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   alagoas_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   sergipe_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = germanic
+						   OR = {
+                               venezuela_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               maracaibo_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   susquehanna_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = low_franconian
+						   OR = {
+                               delaware_valley_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               hudson_valley_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = east_asian
+						   OR = {
+                               california_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               cascadia_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   alaska_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = gaelic
+						   OR = {
+                               delaware_valley_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               hudson_valley_area = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = west_african
+						   OR = {
+                               southeast_america_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               mississippi_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   carribeans_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   maranhao_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   brazil_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   colombia_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   amazon_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = mande
+						   OR = {
+                               southeast_america_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               mississippi_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   carribeans_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   maranhao_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   brazil_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   colombia_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   amazon_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = kongo_group
+						   OR = {
+                               southeast_america_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               mississippi_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   carribeans_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   maranhao_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   brazil_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   colombia_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   amazon_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = sahelian
+						   OR = {
+                               southeast_america_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               mississippi_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   carribeans_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   maranhao_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   brazil_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   colombia_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   amazon_region = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+					   AND = {
+                           culture_group = latin
+						   OR = {
+                               south_america_superregion = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                               north_america_superregion = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+							   central_america_superregion = {
+                                   country_or_non_sovereign_subject_holds = ROOT
+                               }
+                           }
+                       }
+                   }
+			}
 		}
 		obj_100_development = {
 			allow = {

@@ -1288,7 +1288,6 @@ north_china_region = {
 }
 
 brazil_region = {
-
 	areas = {
 		espirito_santo_area
 		minas_gerais_area

@@ -2245,7 +2245,7 @@ sweet_confectioneries = {
 		local_culture_conversion_cost = -0.15
 	}
 	chance = {
-		factor = 5
+		factor = 15
 		modifier = {
 			factor = 0
 			NOT = { development = 20 }
