@@ -604,11 +604,11 @@ marble = {
 		factor = 2
 		modifier = {
 			factor = 0
-			NOT = { has_terrain = mountains }
+			NOT = { has_terrain = mountain }
 		}
 		modifier = {
 			factor = 4
-			has_terrain = mountains
+			has_terrain = mountain
 		}
 	}
 }
@@ -1503,7 +1503,7 @@ ebony = {
 					continent = africa
 					OR = {
 						has_terrain = jungle
-						has_terrain = jungle_highlands
+						has_terrain = tropical_highlands_terrain
 					}
 				}
 			}
@@ -1522,7 +1522,7 @@ ebony = {
 					continent = africa
 					OR = {
 						has_terrain = jungle
-						has_terrain = jungle_highlands
+						has_terrain = tropical_highlands_terrain
 					}
 				}
 			}
@@ -1748,8 +1748,8 @@ potato = {
 				has_terrain = glacier
 				has_terrain = coastline
 				has_terrain = jungle
-				has_terrain = extreme_mountains
-				has_terrain = jungle_highlands
+				has_terrain = impassable_mountains
+				has_terrain = tropical_highlands_terrain
 				has_climate = arctic
 				has_climate = arid
 				NOT = {
@@ -1769,7 +1769,7 @@ potato = {
 				has_terrain = forest
 				has_terrain = woods
 				has_terrain = hills
-				has_terrain = tundra
+				has_terrain = tundra_terrain
 			}
 		}
 		modifier = {
@@ -2024,7 +2024,7 @@ alpaca_wool = {
 				has_terrain = farmlands
 				has_terrain = forest
 				has_terrain = woods
-				has_terrain = extreme_mountains
+				has_terrain = impassable_mountains
 				has_climate = tropical
 				has_climate = arctic
 				has_winter = severe_winter
@@ -2101,7 +2101,7 @@ indigo = {
 		modifier = {
 			factor = 0
 			NOT = { has_terrain = jungle }
-			NOT = { has_terrain = jungle_highlands }
+			NOT = { has_terrain = tropical_highlands_terrain }
 		}
 		modifier = {
 			factor = 0
@@ -2749,7 +2749,7 @@ vodka = { #Limited to Russia and Eastern Europe
 		modifier = {
 			factor = 0.2
 			OR = {
-				has_terrain = tundra
+				has_terrain = tundra_terrain
 			}
 		}
 		modifier = {

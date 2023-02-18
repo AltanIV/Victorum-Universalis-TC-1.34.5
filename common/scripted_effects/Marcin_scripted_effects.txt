@@ -622,12 +622,10 @@ goods_back = {
 			limit = {
 				has_production_building_trigger = yes
 			}
-			OR = {
-				remove_building = workshop
-				remove_building = counting_house
-				remove_building = treasury
-				remove_building = factory
-			}
+			remove_building = workshop
+			remove_building = counting_house
+			remove_building = treasury
+			remove_building = factory
 		}
 	}
 	else_if = {
@@ -837,12 +835,10 @@ goods_back = {
 			limit = {
 				has_production_building_trigger = yes
 			}
-			OR = {
-				remove_building = workshop
-				remove_building = counting_house
-				remove_building = treasury
-				remove_building = factory
-			}
+			remove_building = workshop
+			remove_building = counting_house
+			remove_building = treasury
+			remove_building = factory
 		}
 	}
 	else_if = {

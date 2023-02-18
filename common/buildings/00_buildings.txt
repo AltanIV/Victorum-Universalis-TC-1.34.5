@@ -3462,7 +3462,7 @@ canal_system = {
 				has_terrain = mountain
 				has_terrain = cold_mountains
 				has_terrain = desert_ranges
-				has_terrain = tundra
+				has_terrain = tundra_terrain
 				has_terrain = glacier
 			}
 		}
@@ -3645,7 +3645,7 @@ railway_system = {
 				has_terrain = mountain
 				has_terrain = cold_mountains
 				has_terrain = desert_ranges
-				has_terrain = tundra
+				has_terrain = tundra_terrain
 				has_terrain = glacier
 			}
 	}

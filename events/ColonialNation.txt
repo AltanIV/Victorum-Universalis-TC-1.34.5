@@ -4706,8 +4706,8 @@ country_event = {
 			is_subject_of_type = private_enterprise
 			is_subject_of_type = crown_colony
 			is_subject_of_type = self_governing_colony
-			is_subject_of_type = self_governing_dominion_vu
-			is_subject_of_type = self_governing_super_dominion_vu
+			#is_subject_of_type = self_governing_dominion_vu
+			#is_subject_of_type = self_governing_super_dominion_vu
 		}
 		NOT = { total_development = 70 }
 		NOT = { manpower_percentage = 0.9 }
@@ -4750,8 +4750,8 @@ country_event = {
 		has_dlc = "Leviathan"
 		OR = {
 			is_subject_of_type = self_governing_colony
-			is_subject_of_type = self_governing_dominion_vu
-			is_subject_of_type = self_governing_super_dominion_vu
+			#is_subject_of_type = self_governing_dominion_vu
+			#is_subject_of_type = self_governing_super_dominion_vu
 		}
 		estate_influence = {
 			estate = estate_nobles
@@ -4826,8 +4826,8 @@ country_event = {
 		has_dlc = "Leviathan"
 		OR = {
 			is_subject_of_type = self_governing_colony
-			is_subject_of_type = self_governing_dominion_vu
-			is_subject_of_type = self_governing_super_dominion_vu
+			#is_subject_of_type = self_governing_dominion_vu
+			#is_subject_of_type = self_governing_super_dominion_vu
 		}
 		estate_influence = {
 			estate = estate_burghers
@@ -5124,14 +5124,14 @@ country_event = {
 				is_subject_of_type = self_governing_colony
 				NOT = { has_reform = self_governing_colony_government }
 			}
-			AND = {
-				is_subject_of_type = self_governing_dominion_vu
-				NOT = { has_reform = self_governing_dominion_vu_government }
-			}
-			AND = {
-				is_subject_of_type = self_governing_super_dominion_vu
-				NOT = { has_reform = self_governing_super_dominion_vu_government }
-			}
+			#AND = {
+			#	is_subject_of_type = self_governing_dominion_vu
+			#	NOT = { has_reform = self_governing_dominion_vu_government }
+			#}
+			#AND = {
+			#	is_subject_of_type = self_governing_super_dominion_vu
+			#	NOT = { has_reform = self_governing_super_dominion_vu_government }
+			#}
 		}
 		NOT = { has_country_flag = colonial_nation_government_assignment_failed }	#To avoid that the event infinitely triggers when the assigment fails
 	}
@@ -5181,30 +5181,30 @@ country_event = {
 			}
 			add_government_reform = self_governing_colony_government
 		}
-		else_if = {
-			limit = {
-				is_subject_of_type = self_governing_dominion_vu
-			}
-			if = {
-				limit = {
-					NOT = { government = republic }
-				}
-				change_government = republic
-			}
-			add_government_reform = self_governing_dominion_vu_government
-		}
-		else_if = {
-			limit = {
-				is_subject_of_type = self_governing_super_dominion_vu
-			}
-			if = {
-				limit = {
-					NOT = { government = republic }
-				}
-				change_government = republic
-			}
-			add_government_reform = self_governing_super_dominion_vu_government
-		}
+		#else_if = {
+		#	limit = {
+		#		is_subject_of_type = self_governing_dominion_vu
+		#	}
+		#	if = {
+		#		limit = {
+		#			NOT = { government = republic }
+		#		}
+		#		change_government = republic
+		#	}
+		#	add_government_reform = self_governing_dominion_vu_government
+		#}
+		#else_if = {
+		#	limit = {
+		#		is_subject_of_type = self_governing_super_dominion_vu
+		#	}
+		#	if = {
+		#		limit = {
+		#			NOT = { government = republic }
+		#		}
+		#		change_government = republic
+		#	}
+		#	add_government_reform = self_governing_super_dominion_vu_government
+		#}
 		else = {
 			set_country_flag = colonial_nation_government_assignment_failed	
 			#This flag is here to ensure that this event doesn't get triggered infinitely times if the proper government reform assignment fails

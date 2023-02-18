@@ -1423,10 +1423,10 @@ self_governing_colony_overlord = {
 }
 
 #VU - Addition by San Felipe
-self_governing_dominion_vu_overlord = {
-	governing_capacity_modifier = -0.05		#-5% per dominion, because granting a colony representation in government would reduce that government's power
-	global_tariffs = -0.075					#-7,5% per every colony of this type
-}
+#self_governing_dominion_vu_overlord = {
+#	governing_capacity_modifier = -0.05		#-5% per dominion, because granting a colony representation in government would reduce that government's power
+#	global_tariffs = -0.075					#-7,5% per every colony of this type
+#}
 
 crown_colony_subject = {
 	colonists = 1                   		#Added in VU - The idea here is that once a colony is large enough, people then venture out to claim and settle new land.
@@ -1449,12 +1449,12 @@ self_governing_colony_subject = {
 }
 
 #VU - Addition by San Felipe
-self_governing_dominion_vu_subject = {
-	colonists = 2					#Added in VU - The idea here is that a colony that can govern itself is large enough to grow much faster than a crown colony 
-	global_colonial_growth = 50		#^
-	development_cost = -0.25
-	liberty_desire = -50			#A dominion is basically a self-governing colony that was granted more autonomy and representation in its overlord's government
-}
+#self_governing_dominion_vu_subject = {
+#	colonists = 2					#Added in VU - The idea here is that a colony that can govern itself is large enough to grow much faster than a crown colony 
+#	global_colonial_growth = 50		#^
+#	development_cost = -0.25
+#	liberty_desire = -50			#A dominion is basically a self-governing colony that was granted more autonomy and representation in its overlord's government
+#}
 
 #Removed for now
 #VU - Addition by San Felipe

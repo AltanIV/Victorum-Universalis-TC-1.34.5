@@ -1227,6 +1227,31 @@ germanic = {
         graphical_culture = westerngfx
 		#primary = #no tag so no seperatists
 	}
+	#VU addition - Needed for SEVU colonials
+	german_east_african = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
+	german_east_asian = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
+	german_east_indian = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
+	german_indian = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
+	german_afrikaner = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
+	german_west_african = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
 }
 
 low_franconian = {
@@ -1829,6 +1854,105 @@ british	= {
 	#VU - Cultures by San Felipe
 	#British Central America CR
 	british_belizeans = { #Belizeans
+		graphical_culture = westerngfx
+		dynasty_names = {
+			Macarthur Phillip Bligh Hunter Darling Macquarie King Wentworth Parks Barton Fisher Cooke Bruce 
+			Lyons Menzies Hawke Holt Hawke Fraser Gillard Morrison Turnbull Abbott Keating Whitlam Hughes 
+			McMahon Gorton Brisbane Chifley Curtin Rudd
+		}
+		male_names = {
+			Arthur Bertie Bert Darcy Hugh William Piers Raymond John Thomas
+			Aaron Abel Alwin Angus Augustine Walter Bran Kenneth Clemens Clement Nicholas Constantine
+			David Donald Duncan Douglas Eric Eugene Jacob Malcolm Nigel Oscar Peter Ernest
+			Paul Francis Roy Roderick Shaw Godfrey William Philip George Robert Jonathan Edmund Oliver
+			Gerald Richard Edward Augustus Henry
+		}
+		female_names = {
+			Alice Elizabeth Darcy Joan Eva Agnes Margaret Muriel Catherine Christina Eleanor Martha
+			Maria Matilda Mary Michelle Kylie Kayla Enid Ethel Hazel Victoria 
+		}
+	}
+	#VU - Cultures by San Felipe
+	british_east_african = { #East Africa - Nigerian, Ghana, Tanzania or Kenya
+		graphical_culture = westerngfx
+		dynasty_names = {
+			Macarthur Phillip Bligh Hunter Darling Macquarie King Wentworth Parks Barton Fisher Cooke Bruce 
+			Lyons Menzies Hawke Holt Hawke Fraser Gillard Morrison Turnbull Abbott Keating Whitlam Hughes 
+			McMahon Gorton Brisbane Chifley Curtin Rudd
+		}
+		male_names = {
+			Arthur Bertie Bert Darcy Hugh William Piers Raymond John Thomas
+			Aaron Abel Alwin Angus Augustine Walter Bran Kenneth Clemens Clement Nicholas Constantine
+			David Donald Duncan Douglas Eric Eugene Jacob Malcolm Nigel Oscar Peter Ernest
+			Paul Francis Roy Roderick Shaw Godfrey William Philip George Robert Jonathan Edmund Oliver
+			Gerald Richard Edward Augustus Henry
+		}
+		female_names = {
+			Alice Elizabeth Darcy Joan Eva Agnes Margaret Muriel Catherine Christina Eleanor Martha
+			Maria Matilda Mary Michelle Kylie Kayla Enid Ethel Hazel Victoria 
+		}
+	}
+	#VU - Cultures by San Felipe
+	british_west_african = { #West Africa - Nigerian, Ghana, Sierra Leone
+		graphical_culture = westerngfx
+		dynasty_names = {
+			Macarthur Phillip Bligh Hunter Darling Macquarie King Wentworth Parks Barton Fisher Cooke Bruce 
+			Lyons Menzies Hawke Holt Hawke Fraser Gillard Morrison Turnbull Abbott Keating Whitlam Hughes 
+			McMahon Gorton Brisbane Chifley Curtin Rudd
+		}
+		male_names = {
+			Arthur Bertie Bert Darcy Hugh William Piers Raymond John Thomas
+			Aaron Abel Alwin Angus Augustine Walter Bran Kenneth Clemens Clement Nicholas Constantine
+			David Donald Duncan Douglas Eric Eugene Jacob Malcolm Nigel Oscar Peter Ernest
+			Paul Francis Roy Roderick Shaw Godfrey William Philip George Robert Jonathan Edmund Oliver
+			Gerald Richard Edward Augustus Henry
+		}
+		female_names = {
+			Alice Elizabeth Darcy Joan Eva Agnes Margaret Muriel Catherine Christina Eleanor Martha
+			Maria Matilda Mary Michelle Kylie Kayla Enid Ethel Hazel Victoria 
+		}
+	}
+	#VU - Cultures by San Felipe
+	british_east_asian = { #East Asia - Indochine, China
+		graphical_culture = westerngfx
+		dynasty_names = {
+			Macarthur Phillip Bligh Hunter Darling Macquarie King Wentworth Parks Barton Fisher Cooke Bruce 
+			Lyons Menzies Hawke Holt Hawke Fraser Gillard Morrison Turnbull Abbott Keating Whitlam Hughes 
+			McMahon Gorton Brisbane Chifley Curtin Rudd
+		}
+		male_names = {
+			Arthur Bertie Bert Darcy Hugh William Piers Raymond John Thomas
+			Aaron Abel Alwin Angus Augustine Walter Bran Kenneth Clemens Clement Nicholas Constantine
+			David Donald Duncan Douglas Eric Eugene Jacob Malcolm Nigel Oscar Peter Ernest
+			Paul Francis Roy Roderick Shaw Godfrey William Philip George Robert Jonathan Edmund Oliver
+			Gerald Richard Edward Augustus Henry
+		}
+		female_names = {
+			Alice Elizabeth Darcy Joan Eva Agnes Margaret Muriel Catherine Christina Eleanor Martha
+			Maria Matilda Mary Michelle Kylie Kayla Enid Ethel Hazel Victoria 
+		}
+	}
+	british_east_indian = { #East Indian - Malaya, Indonesia 
+		graphical_culture = westerngfx
+		dynasty_names = {
+			Macarthur Phillip Bligh Hunter Darling Macquarie King Wentworth Parks Barton Fisher Cooke Bruce 
+			Lyons Menzies Hawke Holt Hawke Fraser Gillard Morrison Turnbull Abbott Keating Whitlam Hughes 
+			McMahon Gorton Brisbane Chifley Curtin Rudd
+		}
+		male_names = {
+			Arthur Bertie Bert Darcy Hugh William Piers Raymond John Thomas
+			Aaron Abel Alwin Angus Augustine Walter Bran Kenneth Clemens Clement Nicholas Constantine
+			David Donald Duncan Douglas Eric Eugene Jacob Malcolm Nigel Oscar Peter Ernest
+			Paul Francis Roy Roderick Shaw Godfrey William Philip George Robert Jonathan Edmund Oliver
+			Gerald Richard Edward Augustus Henry
+		}
+		female_names = {
+			Alice Elizabeth Darcy Joan Eva Agnes Margaret Muriel Catherine Christina Eleanor Martha
+			Maria Matilda Mary Michelle Kylie Kayla Enid Ethel Hazel Victoria 
+		}
+	}
+	#VU - Cultures by San Felipe
+	british_indian = { #Indian
 		graphical_culture = westerngfx
 		dynasty_names = {
 			Macarthur Phillip Bligh Hunter Darling Macquarie King Wentworth Parks Barton Fisher Cooke Bruce 
@@ -2550,7 +2674,7 @@ latin = {
 iberian	= {
 	graphical_culture = latingfx
 	castillian = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = CAS
 	}
 	#Iberian Mexico CR
@@ -3148,6 +3272,23 @@ iberian	= {
 		Mayor Mayor Mencía Mencia Milia Emily Sancha Sancha Teresa Teresa Toda Toda Urraca Urraca
 		Isabel
 	}
+	#VU addition - Needed for SEVU colonials
+	iberian_africano = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
+	iberian_chinese = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
+	iberian_islamic = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
+	iberian_indian = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
 }
 
 french	= {
@@ -3343,6 +3484,31 @@ french	= {
 		Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe
 		Mascarose Mathilde Mélisande Mélisende Mélusine Péronelle Pernelle Perinne Pernette Plaisance 
 		Raymonde Sarrazine Solène Sophie Stéphanie Sybille Tiburge Valence Yolande
+	}
+	#VU addition - Needed for SEVU colonials
+	french_east_african = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
+	french_east_asian = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
+	french_east_indian  = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
+	french_indian = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
+	french_south_african = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
+	}
+	french_west_african = {
+        graphical_culture = westerngfx
+		#primary = #no tag so no seperatists
 	}
 }
 
