@@ -109,30 +109,30 @@
  french_third_republic_reform:0 "Third Republic"
  french_third_republic_reform_desc:0 "This government consists of a group of individuals, headed by a President who rules the country as a republic."
  #
- self_governing_dominion_vu_government:0 "Dominion"
- self_governing_dominion_vu_government_desc:0 "A type of colony that is autonomous, a Dominion acts as a country inside a country."
+ #self_governing_dominion_vu_government:0 "Dominion"
+ #self_governing_dominion_vu_government_desc:0 "A type of colony that is autonomous, a Dominion acts as a country inside a country."
  #
- self_governing_super_dominion_vu_government:0 "Super Dominion"
- self_governing_super_dominion_vu_government_desc:0 "A type of colony that is autonomous, a Super Dominion acts as a empire inside a empire."
+ #self_governing_super_dominion_vu_government:0 "Super Dominion"
+ #self_governing_super_dominion_vu_government_desc:0 "A type of colony that is autonomous, a Super Dominion acts as a empire inside a empire."
  #
  ######################
  # VU - Subject Types #
  ######################
- self_governing_dominion_vu:0 "Dominion"
- self_governing_dominion_vu_long_desc:0 "A Dominion is equal in status, in no way subordinate one to another in any aspect of their domestic or external affairs, though united by a common allegiance to the Crown."
- self_governing_dominion_vu_title:0 "Dominion"
- self_governing_dominion_vu_title_plural:0 "Dominions"
- self_governing_dominion_vu_overlord:0 "Dominion Overlord"
- self_governing_dominion_vu_subject:0 "Dominion Subject"
- self_governing_dominion_vu_is_our:0 "§Y$NAME$§! is our Dominion."
- #
- self_governing_super_dominion_vu:0 "Super Dominion"
- self_governing_super_dominion_vu_long_desc:0 "A Super Dominion is equal in status, in no way subordinate one to another in any aspect of their domestic or external affairs, though united by a common allegiance to the Crown."
- self_governing_super_dominion_vu_title:0 "Super Dominion"
- self_governing_super_dominion_vu_title_plural:0 "Super Dominions"
- self_governing_super_dominion_vu_overlord:0 "Super Dominion Overlord"
- self_governing_super_dominion_vu_subject:0 "Super Dominion Subject"
- self_governing_super_dominion_vu_is_our:0 "§Y$NAME$§! is our Super Dominion."
+ #self_governing_dominion_vu:0 "Dominion"
+ #self_governing_dominion_vu_long_desc:0 "A Dominion is equal in status, in no way subordinate one to another in any aspect of their domestic or external affairs, though united by a common allegiance to the Crown."
+ #self_governing_dominion_vu_title:0 "Dominion"
+ #self_governing_dominion_vu_title_plural:0 "Dominions"
+ #self_governing_dominion_vu_overlord:0 "Dominion Overlord"
+ #self_governing_dominion_vu_subject:0 "Dominion Subject"
+ #self_governing_dominion_vu_is_our:0 "§Y$NAME$§! is our Dominion."
+ ##
+ #self_governing_super_dominion_vu:0 "Super Dominion"
+ #self_governing_super_dominion_vu_long_desc:0 "A Super Dominion is equal in status, in no way subordinate one to another in any aspect of their domestic or external affairs, though united by a common allegiance to the Crown."
+ #self_governing_super_dominion_vu_title:0 "Super Dominion"
+ #self_governing_super_dominion_vu_title_plural:0 "Super Dominions"
+ #self_governing_super_dominion_vu_overlord:0 "Super Dominion Overlord"
+ #self_governing_super_dominion_vu_subject:0 "Super Dominion Subject"
+ #self_governing_super_dominion_vu_is_our:0 "§Y$NAME$§! is our Super Dominion."
  #######################
  # VU - National Ideas #
  #######################

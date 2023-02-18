@@ -3813,6 +3813,32 @@
  #VU Religions
  xxxx:0 "Orthodox"
 
-#VU : fix to left over vanilla loc
+ #VU : fix to left over vanilla loc
 
  ATTACK_BONUS_IN_CAPITAL_TERRAIN_IN_PROV: "§G+1 Combat Bonus§! for us due to same terrain as in our Capital"
+ 
+ #SEVU Cultures
+ british_east_african:0 "East African"
+ british_east_asian:0 "East Asian"
+ british_east_indian:0 "East Indian"
+ british_indian:0 "Indian"
+ british_west_african:0 "West African"
+ 
+ german_east_african:0 "Ostafrikanisch"
+ german_east_asian:0 "Ostasiate"
+ german_east_indian:0 "Ostindischen"
+ german_indian:0 "Indisch"
+ german_afrikaner:0 "Südafrikanisch"
+ german_west_african:0 "Westafrikanisch"
+ 
+ iberian_africano:0 "Africano"
+ iberian_chinese:0 "Asiático del Este"
+ iberian_islamic:0 "Indio Oriental"
+ iberian_indian:0 "Indio"
+ 
+ french_east_african:0 "Afrique de l'Est"
+ french_east_asian:0 "de l'Asie de l'Est"
+ french_east_indian:0 "Est Indien"
+ french_indian:0 "Indien"
+ french_south_african:0 "Sud Africain"
+ french_west_african:0 "Afrique de l'Ouest"
