@@ -27,7 +27,6 @@
 
 germanic = {
 	graphical_culture = westerngfx
-
 	male_names = {
 		Gunther Rolf 
 		Ernst Adolf Alfred August Christian Eduard Friedrich Georg Karl Philipp Maximilian Octavius Wilhelm Alexander
@@ -131,7 +130,7 @@ germanic = {
 	}
 
 	pommeranian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = POM
 		male_names = {
 			Boguslaw Barnim Ota Eryk Filip Franciszek Jan Fryderyk Georg Ernest Ludwik Albrecht Arnt August Bernhard
@@ -170,7 +169,7 @@ germanic = {
 		}
 	}
 	prussian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = PRU
 		male_names = {
 			Albrecht Friedrich August Emil Ferdinand Karl Ludwig Karl Wilhelm Adolf Alfred Anton Benedikt Benjamin Denis
@@ -186,7 +185,7 @@ germanic = {
 	}
 	#VU addition
 	holsatian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = SHL
 		male_names = {
 			Ernst Adolf Alfred August Christian Eduard Friedrich Georg Karl Philipp Maximilian Octavius Wilhelm
@@ -199,7 +198,7 @@ germanic = {
 		}
 	}
 	lower_saxon = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = HAN
 		male_names = {
 			Ernst Adolf Alfred August Christian Eduard Friedrich Georg Karl Philipp Maximilian Octavius Wilhelm
@@ -212,7 +211,7 @@ germanic = {
 		}
 	}
 	hannoverian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = WES
 		male_names = {
 			Ernst Adolf Alfred August Christian Eduard Friedrich Georg Karl Philipp Maximilian Octavius Wilhelm
@@ -224,7 +223,7 @@ germanic = {
 		}
 	}
 	hessian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = HES
 		male_names = {
 			Wilhelm Ludwig Friedrich Hermann Karl Moritz Philipp Heinrich Otto Adolf Christian Georg Leopold Philipp
@@ -237,7 +236,7 @@ germanic = {
 		}
 	}
 	saxon = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = SAX
 		male_names = {
 			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor Johann Karl
@@ -279,7 +278,7 @@ germanic = {
 		}
 	}
 	alsatian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = ALS
 		male_names = {
 			Ade Alfuns Alis Anstett Beri Chrischan Chrisorst Elje Frider Gaber Gabert Gamill Gari Gasti Gilg Güschti
@@ -294,7 +293,7 @@ germanic = {
 		}
 	}
 	swiss = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = SWI
 		male_names = {
 			Friedrich Otto Heinrich Werner Ferdinand Karl Alfred Benedikt Christoph Dietrich Engelbert Florian Gerhard
@@ -307,7 +306,7 @@ germanic = {
 	}
 	#VU addition
 	caucasian_german = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		#primary = XXX
 		male_names = {
 			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor Johann Karl
@@ -352,7 +351,7 @@ germanic = {
 		#TY: I am not sure what the point of the something_german cultures are, they are near identical,
 		#but see if you like what I have done to this one
 		#primary = XXX
-            graphical_culture = easterngfx
+        graphical_culture = easterngfx
 		male_names = {
 			# Some names that are both Russian and German
 			Adam Adrian Albert Alexander Aldrik Alrik Aurik Adrik Amo Anton Arman Artur August Benat Benedikt Brends
@@ -403,7 +402,7 @@ germanic = {
 		}
 	}
 	hungarian_german = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		#primary = XXX
 		male_names = {
 			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor Johann Karl
@@ -445,7 +444,7 @@ germanic = {
 		}
 	}
 	crimean_german = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		#primary = XXX
 		male_names = {
 			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor Johann Karl
@@ -488,7 +487,7 @@ germanic = {
 	}
 	ukraine_german = {
 		#primary = XXX
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		male_names = {
 			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor Johann Karl
 			Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang Andreas Bruno Burkhard
@@ -530,7 +529,7 @@ germanic = {
 	}
 	baltic_german = {
 		#primary = XXX
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		male_names = {
 			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor Johann Karl
 			Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang Andreas Bruno Burkhard
@@ -572,7 +571,7 @@ germanic = {
 	}
 	balkan_german = {
 		#primary = XXX
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		male_names = {
 			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor Johann Karl
 			Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang Andreas Bruno Burkhard
@@ -614,7 +613,7 @@ germanic = {
 	}
 	nordic_german = {
 		#primary = XXX
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		male_names = {
 			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor Johann Karl
 			Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang Andreas Bruno Burkhard
@@ -656,7 +655,7 @@ germanic = {
 	}
 	volhynian_german = {
 		#primary = XXX
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		male_names = {
 			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor Johann Karl
 			Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang Andreas Bruno Burkhard
@@ -698,7 +697,7 @@ germanic = {
 	}
 	siberian_german = {
 		#primary = XXX
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		male_names = {
 			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor Johann Karl
 			Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang Andreas Bruno Burkhard
@@ -740,7 +739,7 @@ germanic = {
 	}
 	anatolian_german = {
 		#primary = XXX
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		male_names = {
 			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor Johann Karl
 			Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang Andreas Bruno Burkhard
@@ -1153,7 +1152,7 @@ germanic = {
 		}
 	}
 	franconian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = FKN
 	}
 	#VU addition
@@ -1170,15 +1169,15 @@ germanic = {
 		}
 	}
 	westphalian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = SAY
 	}
 	swabian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = SWA
 	}
 	bavarian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = BAV
 		male_names = {
 			Albrecht Wilhelm Johann Ernst Maximilian Emanuel Siegmund Ludwig Anton Christoph Ferdinand Leopold Philipp
@@ -1202,7 +1201,7 @@ germanic = {
 		}
 	}
 	austrian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = HAB
 		male_names = {
 			Albrecht Maximilian Friedrich Ladislav Matthias Ernst Ferdinand Wenzel Georg Philipp Joseph Rudolf Gerhard
@@ -1221,11 +1220,11 @@ germanic = {
 	}
 	#Beyond the Pale Culture BtPLegacy Culture
 	transylvanian_saxons = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		#primary = #no tag so no seperatists
 	}
 	silesian_german = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		#primary = #no tag so no seperatists
 	}
 }
@@ -1251,19 +1250,19 @@ low_franconian = {
 	#   }
 	#}
 	dutch = { #renamed to Hollander
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = HOL
 	}
 	brabantian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = BRB
 	}
 	dutch_saxon = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = GRN
 	}
 	luxembourgish = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = LUX
 		male_names = {
 			Abbes Abbi Ägidius Albär Alluis Aloyse Ambros Ambrous Ämes Änder Ändréi Baltes Battes Batty Bros Charel Chrëscht Dilles Ësti Ferd Fern Flëpp Fränk Haans Heng Jamper Jang Jeek Jemp Josy Klos Lois Loll Lui Lull Luss Méchel Néckel Nikla Nuckes Octavie Péiter Pitt Stinn Stoffel Tunn Tunnes Uedem Wëllem
@@ -1272,14 +1271,14 @@ low_franconian = {
 			Addéi Addell Agätt Agatt Agnis Allin Amméi Ammel Ammeli Amrei An Anegréit Anegritt Anekätt Aneleis Anelis Aneliss Änneli Änni Antenett Appolonia Bäärbel Babel Babett Bierbel Brosia Damienne Gättes Gätti Getti Gréidel Gréit Jätti Jelina Ketti Linn Loni Luss Maargréit Margréit Meeli Muedeléin Nannéi Nannette Nanni Néis Octavie Tréis Zëss Zëssil
 		}
 		dynasty_names = {
-		"van Schmit" "van Muller" "van Weber" "van Hoffmann" "van Wagner" "van Thill" "van Schmitz" "van Schroeder" "van Reuter" "van Klein" "van Becker" "van Kieffer" "van Kremer" "van Faber" "van Meyer" "van Schneider" "van Weiss" "van Schiltz" "van Simon" "van Welter" "van Hansen" "van Majerus" "van Ries" "van Meyers" "van Kayser" "van Steffen" "van Krier" "van Braun" "van Wagener" "van Diederich"
+		    "van Schmit" "van Muller" "van Weber" "van Hoffmann" "van Wagner" "van Thill" "van Schmitz" "van Schroeder" "van Reuter" "van Klein" "van Becker" "van Kieffer" "van Kremer" "van Faber" "van Meyer" "van Schneider" "van Weiss" "van Schiltz" "van Simon" "van Welter" "van Hansen" "van Majerus" "van Ries" "van Meyers" "van Kayser" "van Steffen" "van Krier" "van Braun" "van Wagener" "van Diederich"
 		}
 	}
 	zeelandic = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 	}
 	limburgish = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = LBG
 		male_names = {
 			Falco Jarek
@@ -1289,32 +1288,32 @@ low_franconian = {
 		}
 	}
 	guelders = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = GEL
 		dynasty_names = {
 			"de Friesland" "van Egmond" "van Gelre" "van Brederode" "van Oranje" "van Bronckhorst" "von Zutphen" "van Heemskerk" "van Bergh" "van Rhenen" "van de Veluwe" "van Keppel" "Van Voorst tot Voorst" "van Montfoort" "van Wassenaer" "van Haspinga" "van Bosinchem" "van Renesse" "van Wisch" "De Graeff" "De Witte"
 		}
 	}
 	flemish = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = FLA
 		male_names = {
 			Filips Jan Boudewijn Arnolf Lodewijk Robrecht Willem Diederik Gwijde Karel Antoon Abraham Alexander Alfons Andries Balthasar Bartholomeus Christoffel Constantijn Cornelis Daniël David Ernst Erwin Ewoud Floris Gabriel Godfried Hans Jacob Kasper Ludger Luuk Marinus Pieter Renate Rodolf Roeland Valentijn
 		}
 	}
 	frisian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = FRI
 		dynasty_names = {
 			"van Groningen" Nassau "van Wassenberg" "van Henegouwen" "de Friesland"	"van Haspinga" "van Limburg" "van Lotharingen" "von der Mark" "van Leuven" "van Brabant" "van Egmont" "de Reginar" "van Jülich-Hengebach"	"van Loon" "von Geldern" "van Sulzbach" "von Salm" "van Bergh" "van Heinsberg" "van de Veluwe" "De Graeff"	"van Brederode" "van Breda" "van Heemskerk" "van Glymes" "van Grimberghe" "van Renesse" "van Wassenaer" "van Bronckhorst"	"van Keppel" "Van Voorst tot Voorst" "van Wisch" "van Kamerijk" Cirksena "van Diest" "van Montfoort"	"van Serooskerken"
 		}
 	}
 	east_frisian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = EFR
 	}
 	north_frisian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = EFR
 	}
 	#Cape CR
@@ -1388,7 +1387,7 @@ scandinavian = { #Nordic
 		}
 	}
 	norwegian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = NOR
 		male_names = {
 			Ale Alfr Alf Alfgeir Anders Andrew Anlaufr Anundr Anund Arnbjörn Arngrimr Arni Arne Arnfast Asbjörn Bagge Baldr Balder Barid Bengt Benedict Bersi Bertil Birger Björn Beorn Bo Borkvard Botulfr Bragi Brage Buðli Dag Dan Dyre Eilif Egill Egil Emund Einarr Einar Eirikr Erik Eskild Falki Faste Filip Philip Fredrik Frederick Frirek Frode Freyr Frej Folki Folke Gandalfr Geirr Georg George Gnupa Gorm Greger Gregory Grimr Grim Godfrey Guðmundr Gudmund Gudröd Gunnarr Gunnar Hakon Halsten Haraldr Harold Haukr Helgi Helge Hemming Holmger Hrafn Hrolfr Rolf Hrane Hæsteinn Hjalmar Hysing Ingólfr Ingolf Ingemar Ingjald Ivar Jedvard Edward Jon John Karl Charles Kettil Kettilmund Kjartan Klas Knut Kol Kolbjörn Magnus Markus Marcus Mats Matthew Nils Niklas Nicholas Oddr Odd Ofeig Olafr Olaf Ormr Orm Ottarr Ottar Refr Refil Ragnarr Ragnar Rikulfr Rögnvaldr Ragnvald Skuli Skule Snorri Sigbjörn Sigtrygg Sigurðr Sigurd Starkad Steinn Sten Sturla Styrbjörn Styrkar Somerled Suni Sune Sveinn Sven Sverker Sæmundr Sämund Sölvi Sölve Sörkver Tjudmund Toke Tolir Þorbjörn Torbjörn Þorfinn Torfinn Þorbrandr Torbrand Þordr Tord Þorgil Torkel Þorsteinn Torsten Þorolfr Thorolf Toste Totil Tryggve Tyke Ulfr Ulf Vagn Valdemar Vladimir Åke Yngvar Ingvar Örvar Orvar Öysteinn Eysteinn Håkon Olav Christoffer Harald Inge Aksel Ansgard Arvid Bernt Bjørn Daniel Edvard Eilert Elias Esben Kasper Kennet Knut Ludvig Mikael Njåld Njord Oddmund Peder Rikard Simon Søren Tollak
@@ -1402,7 +1401,7 @@ scandinavian = { #Nordic
 	}
 	#Beyond the Pale Culture
 	icelandic = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = ICE
 		male_names = {
 			Agnar Ásgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes Hermann Jón Kristján Magnús Ólafur Pétur Sigurdur Stefán Sveinn Tryggvi Hrafn Ormur Ketill Eiríkur Bótólfur Grímur Holti Ívar Árni Andrés Þorsteinn Smiður Þorgautur Vigfús Arnfinnur Helgi Hannes Loftur Torfi Hinrik Diðrik Þorleifur Søren Týli Jóhann Ögmundur Poul Benedikt Enevold Holger
@@ -2062,9 +2061,8 @@ british	= {
 
 gaelic	= {
 	graphical_culture = westerngfx
-
 	irish = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = IRE
 		dynasty_names = { 
 			"Ó Domhnaill" "Ó Dochartaigh" "Mac Lochlainn" "Mac Pháil" "Ó Catháin" "Mac Suibhne" "Ó Baoighill" "Mac Maonghail" "Ó Cléirigh" "Mac Craith" "Ó Néill" "Ó Donnghaile" "Ó hAodhagáin" "Ó hEaghra" "Mac Énri" "Mac Alastar" "Mac Eoghain" "Mac Domhnaill" "Mac Uighilín" "Mac Cana" "Ó hAnluain" "Mac Artáin" "Mac Aonghusa" "Mac Uidhir" "Mac Mathúna" "Mac Fhlannchaidh" "Mac Shamhráin" "Ó Ruairc" "Ó Raghallaigh" "Ó Brádaigh" "Mac Brádaigh" "Ó Conchobhair" "Ó hAirt" "Ó Fearghail" "Mac Donnchadha" "Mac Diarmada" "Ó Gadhra" "Ó Dubhda" "Mac Fhirbhisigh" "Ó Máille" "Ó Flaithbheartaigh" "Ó hUiginn" "Ó Dubhthaigh" "Ó Ceallaigh" "O' Fionnachta" "Ó Mainnin" "Ó Dálaigh" "Ó Domhnalláin" "Mac Eochagáin" "Ó Donnagáin" "Ó Maolsheachlann" "Ó Maonaigh" "Mac Cochláin" "Ó Cochláin" "Ó Dalachain" "Ó Madáin" "Ó Maolmhuaidh" "Ó hAlluráin" "Ó Coinn" "Ó Tuathail" "Ó Broin" "Mac Murchadha Caomhánach" "Ó Dúnlaing" "Ó Mórdha" "Mac Giolla Phádraig" "Ó Duibhginn" "Ó Cearbhaill" "Ó Banáin" "Mac Giolla Phóil" "Mac Aodhagáin" "Ó Cinnéide" "Ó Meachair" "Ó Meadhra" "Ó hÓgáin" "Ó Tiarnaigh" "Ó Chiarbháin" "Ó hEidhin" "Ó Lochlainn" "Ó Clochasaigh" "Ó Seachnasaigh" "Ó Deághaidh" " Ó Gríobhtha" "Ó Grádaigh" "Mac Conmara" "Ó Síoda" "Ó Nualláin" "Ó Nailláin" "Ó hAnnáin" "Mac an Airchinnigh" "Mac Gormáin" "Mac Fhlannchaidh" "Ó hUirthile" "Ó Muirthile" "Ó hIarlatha" "Ó Maoilriain" "Ó Fogaratigh" "Ó Dubhuir" "Ó Cearnaigh" "Ó Síthigh" "Mac Síthigh" "Ó hÁilgheanáin" "Ó Craobhach" "Ó Ceallacháin" "Ó Caoimh" "Mac Uileagóid" "Ó Conghaile" "Ó Muircheartaigh" "Ó Fearghusa" "Mac Giolla Chuda" "Ó Donnchadha" "Ó Súilleabháin" "Ó Laoghaire" "Ó Floinn" "Ó hÉalaighthe" "Ó hÉilidhe" "Ó Liatháin" "Ó Cathail" "Ó Cruadhlaoich" "Ó Mathghamhna" "Ó Donnabháin" "Ó hEidirsceoil" Coipingéir "Mac Coitir" "Ó hArailt" "Mac Dun Sléibhe" "Ó hÁgáin" "Mac an Oirchinnigh"
@@ -2108,7 +2106,7 @@ gaelic	= {
 		}
 	}
 	highland_scottish = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = HSC
 
 		male_names = {
@@ -2361,19 +2359,19 @@ latin = {
 	graphical_culture = latingfx
 
 	lombard = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = MLO
 	}
 	tuscan = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = TUS
 	}
 	sardinian = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = SAR
 	}
 	romagnan = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = FER
 
 		dynasty_names = {
@@ -2381,15 +2379,15 @@ latin = {
 		}
 	}
 	ligurian = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = GEN
 	}
 	venetian = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = VEN
 	}
 	dalmatian = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = DAL
 		male_names = {
 			Pongo
@@ -2432,23 +2430,23 @@ latin = {
 		}
 	}
 	neapolitan = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = NAP
 	}
 	piedmontese = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = SAV
 	}
 	sicilian = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = SIC
 	}
 	umbrian = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = URB
 	}	#Moved down one position for different colour, too close to Tuscan
 	maltese = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = JAI
 		dynasty_names = {
 			"de la Valette" "de Villaret" "L'Isle-Adam" "de Ponte" "de Saint-Jaille" "de la Sengle"
@@ -2551,7 +2549,6 @@ latin = {
 
 iberian	= {
 	graphical_culture = latingfx
-
 	castillian = {
             graphical_culture = latingfx
 		primary = CAS
@@ -2686,7 +2683,7 @@ iberian	= {
 	}
 	#Iberian Cuba CR
 	cuban = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		#primary = MEX
 		dynasty_names = {
 			"de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
@@ -2718,7 +2715,7 @@ iberian	= {
 	}
 	#Iberian Hispaniola CR
 	dominican = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		#primary = MEX
 		dynasty_names = {
 			"de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
@@ -2750,7 +2747,7 @@ iberian	= {
 	}
 	#Iberian Antilles CR
 	iberian_caribbean = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		#primary = MEX
 		dynasty_names = {
 			"de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
@@ -2782,7 +2779,7 @@ iberian	= {
 	}
 	#Iberian Central America CR
 	centroamerican = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		#primary = MEX
 		dynasty_names = {
 			"de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
@@ -2814,7 +2811,7 @@ iberian	= {
 	}
 	#Iberian Texas CR
 	tejano = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		#primary = MEX
 		dynasty_names = {
 			"de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
@@ -2846,7 +2843,7 @@ iberian	= {
 	}
 	#Iberian California CR
 	californio = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		#primary = MEX
 		dynasty_names = {
 			"de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
@@ -2878,7 +2875,7 @@ iberian	= {
 	}
 	#Iberian Florida CR
 	floridan = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		#primary = MEX
 		dynasty_names = {
 			"de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
@@ -3386,7 +3383,7 @@ finno_ugric = { #Ugric
 		}
 	}
 	sapmi = {
-            graphical_culture = mongolgfx
+        graphical_culture = mongolgfx
 		primary = SMI
 		male_names = {
 			Baeivvet Biejan Bijás Bilzi Dávgon Duttá Gáivvas Elmar Hain Haljas Igapäiv Ihalemb Kahar Eeri Heameel Heatõiv 
@@ -3413,7 +3410,7 @@ finno_ugric = { #Ugric
 		}
 	}
 	karelian = {
-            graphical_culture = easterngfx
+        graphical_culture = easterngfx
 		primary = KRL
 		male_names = {
 			Mohkku Mokci Náhkol Náinnas Njulgu Oaván Orddot Rástos Riibma Ruigi Sárra Speaidna Viggu Kaarel Kaaren Kahus Kaido 
@@ -3432,7 +3429,7 @@ finno_ugric = { #Ugric
 		}
 	}
 	uralic = {
-            graphical_culture = mongolgfx
+        graphical_culture = mongolgfx
 		primary = PRM
 		male_names = {
 			Mikhail Yermolay Matvey Vasiley Pitirim Gerasim Isaak Iona Volod Gavril Yegor Ivan Mikulay Petyr 
@@ -3443,7 +3440,7 @@ finno_ugric = { #Ugric
 		}
 	}
 	samoyed = {
-            graphical_culture = mongolgfx
+        graphical_culture = mongolgfx
 		male_names = {
 			Alik Hasaba Kako Kharuchi Kolik Mandak Nabtiko Nenyts Nga Ngënoh Noumea Num Nyalku Panay 
 			Salinder Samatu Sarak Sirtya Somatu Syudbya Tatva Tolik Vesei Wayngachi Xëryuchi Yadne 
@@ -3458,7 +3455,7 @@ finno_ugric = { #Ugric
 		}
 	}
 	ostyaki = {
-            graphical_culture = mongolgfx
+        graphical_culture = mongolgfx
 		male_names = {
 			Ággi Áigesárri Áilu Ámmot Ára Árrajuoksa Ásllat Èoavvá Ahkemiella Algebaeivi Baeivi Aare Agul Ahas Aho Ahti Ahvo 
 			Alar Alo Alur Aopelg Aotõiv Arp Arvet Arvo Atko Aul Aulemb Kaur Kiur Kiurupelg Koit Kosk Kudres Susi Sutemeel Meigo 
@@ -3479,7 +3476,7 @@ finno_ugric = { #Ugric
 		}
 	}
 	ingrian = {
-            graphical_culture = easterngfx
+        graphical_culture = easterngfx
 		male_names = {
 			Kahru Kahrulemb Gáktu Henes Járre Jeansa Juvven John Lágon Lávrrohas Leammá Mellet Mihka Igalemb Ihameel Ihar 
 			Ihatõiv Ihavald Illimar Ilmalemb Ilmar Ilvelemb Jaolemb Kaalep Lättelemb Manivald Mart Maru Mati Mats Meelis Mehis 
@@ -3574,7 +3571,7 @@ south_slavic = {
 	graphical_culture = greekgfx
 
 	croatian = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = CRO
 		male_names = {
 			Kresimir Stjepan Almos Dimitrije Zvonimir Trpimir Goislav Slavic Svetoslav Miroslav Mutimir
@@ -3601,12 +3598,12 @@ south_slavic = {
 		}
 	}
 	serbian = {
-            graphical_culture = greekgfx
+        graphical_culture = greekgfx
 		primary = SER
 	}
 	#Beyond the Pale Culture (Haven't integrated vanilla's names)
 	slovene = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = CLI
 		male_names = {
 			Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
@@ -3633,11 +3630,11 @@ south_slavic = {
 	}
 	#Beyond the Pale Culture (Haven't integrated vanilla's names)
 	bosnian = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = BOS
 	}
 	bulgarian = {
-            graphical_culture = greekgfx
+        graphical_culture = greekgfx
 		primary = BUL
 		male_names = {
 			Iwan Asen Koloman Petar Todor Michael Aleksandar Iwan Kalojan Georgi Konstantin Stepan Stracimir
@@ -3758,7 +3755,7 @@ west_slavic = {
 		}
 	}
 	schlesian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = SIL
 		male_names = {
 			Fryderyk Jan Henryk Ludwik Jan Krystian Jerzy Jerzy Rudolf Jerzy Wilhelm Joachim Fryderyk Krystian 
@@ -3790,7 +3787,7 @@ west_slavic = {
 		}
 	}
 	sorbian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = SOR
 		male_names = {
 			Awgust Alojs Abraham Albin Bogumil Bjedrich Bjarnat Cyril Derwan Fryco Frido Filip
@@ -3918,15 +3915,15 @@ west_slavic = {
 carpathian = {
 	graphical_culture = westerngfx
 	hungarian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = HUN
 	}
 	cuman = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = CUM
 	}
 	szekely = {
-            graphical_culture = latingfx
+        graphical_culture = latingfx
 		primary = SZE
 	}
 	dynasty_names = {
@@ -3971,7 +3968,7 @@ carpathian = {
 east_slavic = {
 	graphical_culture = easterngfx
 	russian = { #Muscovite - Vladimir-Suzdal dialects
-            graphical_culture = easterngfx
+        graphical_culture = easterngfx
 		primary = MOS
 		male_names = {
 			Vasiliy Ivan Dmitriy Yuriy Andrei Semen Fyodor Afanasiy Akim Aleksandr Alexei Anatoliy Arkadiy
@@ -4012,7 +4009,7 @@ east_slavic = {
 		}
 	}
 	novgorodian = { #Novgorodian and most North Russian dialects.
-            graphical_culture = easterngfx
+        graphical_culture = easterngfx
 		primary = NOV
 		male_names = {
 			Vasiliy Ivan Dmitriy Yuriy Andrei Semen Fyodor Afanasiy Akim Aleksandr Alexei Anatoliy Arkadiy
@@ -4053,7 +4050,7 @@ east_slavic = {
 		}
 	}
 	ryazanian = { #Southern Russian Dialects
-            graphical_culture = easterngfx
+        graphical_culture = easterngfx
 		#primary = RYA          #Culture removed
 		male_names = {
 			Vasiliy Ivan Dmitriy Yuriy Andrei Semen Fyodor Afanasiy Akim Aleksandr Alexei Anatoliy Arkadiy
@@ -4094,7 +4091,7 @@ east_slavic = {
 		}
 	}
 	byelorussian = {
-            graphical_culture = easterngfx
+        graphical_culture = easterngfx
 		primary = PLT
 		male_names = {
 			Andrei Lubko Olgierd Bryachislav Vasiliy Svyatoslav Vladimir Izyaslav Vseslav Boris Aleksandr Adrian
@@ -4107,7 +4104,7 @@ east_slavic = {
 		}
 	}
 	cossack = {
-            graphical_culture = mongolgfx
+        graphical_culture = mongolgfx
 		primary = ZAZ
 		male_names = {
 			Ivan Dmitriy Yuriy Andrei Semen Boris Fyodor Oleg Afanasiy Akim Aleksandr Alexei Anatoliy Arkadiy
@@ -4121,7 +4118,7 @@ east_slavic = {
 		}
 	}
 	rusyn = {
-            graphical_culture = greekgfx
+        graphical_culture = greekgfx
 		male_names = {
 			Ivan Dmitriy Yuriy Andrei Semen Boris Fyodor Oleg Afanasiy Akim Aleksandr Alexei Anatoliy Arkadiy
 			Dorofey Feodosiy Feofilakt Gavriil Innokentiy Iosif Lavrentiy Makariy Matveiy Mikhail Nazariy
@@ -4134,7 +4131,7 @@ east_slavic = {
 		}
 	}
 	ruthenian = {
-            graphical_culture = easterngfx
+        graphical_culture = easterngfx
 		primary = KIE
 		male_names = {
 			Ivan Dmitriy Yuriy Andrei Semen Boris Fyodor Oleg Afanasiy Akim Aleksandr Alexei Anatoliy Arkadiy
@@ -4149,7 +4146,7 @@ east_slavic = {
 	}
 	#East Slavic Alaska CR
 	russo_alaskan = {
-            graphical_culture = easterngfx
+        graphical_culture = easterngfx
 		#primary = MOS
 		male_names = {
 			Vasiliy Ivan Dmitriy Yuriy Andrei Semen Fyodor Afanasiy Akim Aleksandr Alexei Anatoliy Arkadiy
@@ -4221,7 +4218,7 @@ baltic	= {
 
 	#Estonian moved to btpl_cultures files
 	lithuanian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = LIT
 		male_names = {
 			Zygimantas Kazimieras Aleksandras Jonas Albertas Zygimantas Augustas Vytautas Jogaila Vladislovas 
@@ -4245,7 +4242,7 @@ baltic	= {
 		}
 	}
 	latvian = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		primary = LVA
 		male_names = {
 			Aishno Ako Ankad Baise Balodis Bikshe Borut Bulei Butovit Cirulis Dangeruthe Darbeslave
@@ -4690,7 +4687,7 @@ caucasian = {
 		}
 	}
 	dagestani = {
-            graphical_culture = turkishgfx
+        graphical_culture = turkishgfx
 		primary = GAZ
 		dynasty_names = {
 			Shamkhal Kumukh
@@ -4736,7 +4733,7 @@ caucasian = {
 	}
 	#BtPLegacy Culture
 	laz_culture = {
-            graphical_culture = greekgfx
+        graphical_culture = greekgfx
 		dynasty_names = {
 			Bagrationi Mukhrani
 			# CKII
@@ -5671,7 +5668,7 @@ altaic = {
 	graphical_culture = mongolgfx
 
 	mongol = {
-            graphical_culture = mongolgfx
+        graphical_culture = mongolgfx
 		primary = KHA
 		male_names = {
 			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligtü Dayan 
@@ -5693,7 +5690,7 @@ altaic = {
 		}
 	}
 	chahar = { # now korchin
-            graphical_culture = mongolgfx
+        graphical_culture = mongolgfx
 		primary = KRC
 		male_names = {
 			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligtü Dayan 
@@ -5707,7 +5704,7 @@ altaic = {
 		}
 	}
 	khalkha = {
-            graphical_culture = mongolgfx
+        graphical_culture = mongolgfx
 		primary = KLK
 		male_names = {
 			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligtü Dayan 
@@ -5721,7 +5718,7 @@ altaic = {
 		}
 	}
 	oirats = {
-            graphical_culture = mongolgfx
+        graphical_culture = mongolgfx
 		primary = ZUN
 		male_names = {
 			Batula Toghan Galdan Amursana Erdeni Choghtu Dawa Esen Güshi Lha-bzang Khara Khula Kho Sengge Tseten 
@@ -5733,7 +5730,7 @@ altaic = {
 		}
 	}
 	uzbehk = {
-            graphical_culture = persiangfx
+        graphical_culture = persiangfx
 		primary = SHY
 		male_names = {
 			Abdul-Aziz Abdul-Karim Abdul-Mumin Abdul-Rahim Abdulla Abu Said Abu'l-Feiz Abu'l-Ghazi Abu'l-Khayr 
@@ -5749,7 +5746,7 @@ altaic = {
 		}
 	}
 	uyghur = {
-            graphical_culture = mongolgfx
+        graphical_culture = mongolgfx
 		primary = KAS
 		male_names = {
 			Abdul-Karim Abdul-Latif Abdul-Rashîd Abdullah Ahmad Alghu Ali Baraq Bayan Quli Buqa Temür Buzan 
@@ -5766,7 +5763,7 @@ altaic = {
 		}
 	}
 	khazak = {
-            graphical_culture = mongolgfx
+        graphical_culture = mongolgfx
 		primary = KZH
 		male_names = {
 			Abilghazi Abilmambet Abulay Abulkhayr Ahmat Ayshwak Arunghazi Barak Batir Bokey Bulat Burunduq 
@@ -5797,7 +5794,7 @@ altaic = {
 		}
 	}
 	kirgiz = {
-            graphical_culture = mongolgfx
+        graphical_culture = mongolgfx
 		primary = CHG
 		male_names = {
 			Abdul-Karim Abdul-Latif Abdul-Rashîd Abdullah Ahmad Alghu Ali Baraq Bayan Quli Buqa Temür Buzan 
@@ -6225,7 +6222,6 @@ otomanguean = {
 
 andean_group = {
 	graphical_culture = southamericagfx
-
 	inca = { # Quechua
 		primary = CSU
 		dynasty_names = {
@@ -6315,7 +6311,6 @@ andean_group = {
 
 je_tupi = { # Tupi
 	graphical_culture = northamericagfx
-
 	tupinamba = {
 		primary = TPQ
 		dynasty_names = {
@@ -6484,7 +6479,6 @@ chibchan = {
 
 mataco = {	#Matacoan
 	graphical_culture = northamericagfx
-
 	chacoan = {
 		male_names = {
 			Sopa Cayo Topa Coyllas Cusichaca Huachuri Huaypalcon Luyes Marcavilca
@@ -6524,7 +6518,6 @@ mataco = {	#Matacoan
 
 araucanian = {
 	graphical_culture = northamericagfx
-	
 	het = {
 		male_names = {
 			Ancamilla Nampai Coñoepán Nahueltripai Millarapue Millalelmo Lautaro Paillamachu Huenecura 
@@ -6599,7 +6592,6 @@ araucanian = {
 
 carribean = {			#All vanilla cultures from this group moved to more appropriate groups, but recycling this group for pre-Arawakan Caribbean cultures (4-5 of them). All added by BT.
 	graphical_culture = northamericagfx
-
 	#Beyond Typus Culture
 	guanahatabey = {
 		#primary = YZY
@@ -6671,7 +6663,6 @@ carribean = {			#All vanilla cultures from this group moved to more appropriate 
 
 eskaleut = {
 	graphical_culture = northamericagfx
-
 	aleutian = {
 		primary = YYB
 		male_names = {
@@ -6745,7 +6736,6 @@ eskaleut = {
 
 central_algonquian = {
 	graphical_culture = northamericagfx
-
 	miami = { #Leviathan DLC
 		primary = MMI
 		dynasty_names = {
@@ -7018,7 +7008,6 @@ central_algonquian = {
 
 plains_algonquian = {
 	graphical_culture = northamericagfx
-
 	plains_cree = { #Leviathan DLC
 		primary = NEH
 		dynasty_names = {
@@ -7040,7 +7029,6 @@ plains_algonquian = {
 
 eastern_algonquian = {
 	graphical_culture = northamericagfx
-
 	delaware = {
 		primary = LEN
 		dynasty_names = {
@@ -7196,7 +7184,6 @@ eastern_algonquian = {
 
 iroquoian = {
 	graphical_culture = northamericagfx
-
 	iroquois = {
 		primary = IRO
 		dynasty_names = {
@@ -7618,7 +7605,6 @@ iroquoian = {
 
 siouan = {
 	graphical_culture = northamericagfx
-
 	dakota = {
 		primary = SIO
 		dynasty_names = {
@@ -7803,7 +7789,6 @@ siouan = {
 
 caddoan = {
 	graphical_culture = northamericagfx
-
 	wichita = {
 		primary = WIC
 		dynasty_names = {
@@ -7879,7 +7864,6 @@ caddoan = {
 
 muskogean = {
 	graphical_culture = northamericagfx
-
 	creek = {
 		primary = CRE
 		dynasty_names = {
@@ -8060,7 +8044,6 @@ muskogean = {
 
 sonoran = {
 	graphical_culture = northamericagfx
-
 	shoshone = {
 		primary = SHO
 		dynasty_names = {
@@ -8176,7 +8159,6 @@ sonoran = {
 
 apachean = {			#Note this is turned into a Pueblo group in BT, mixing multiple different language families.
 	graphical_culture = northamericagfx
-
 	apache = {			#repurposed in BT to Plains Apache
 		#primary = APA
 		dynasty_names = {
@@ -8332,7 +8314,6 @@ apachean = {			#Note this is turned into a Pueblo group in BT, mixing multiple d
 
 na_dene = {
 	graphical_culture = northamericagfx
-
 	chipewyan = {
 		primary = CPY
 		dynasty_names = {
@@ -8783,7 +8764,6 @@ penutian = {
 
 east_asian = {	# Chinese Group
 	graphical_culture = asiangfx
-	
 	#ME addition
 	chaoxian = {
 		#primary = JOS
@@ -9295,7 +9275,6 @@ east_asian = {	# Chinese Group
 
 korean_g = {
 	graphical_culture = asiangfx
-
 	korean = {
 		primary = KOR
 		dynasty_names = {
@@ -9328,7 +9307,6 @@ korean_g = {
 
 japanese_g = {
 	graphical_culture = asiangfx
-
 	togoku = { #Togoku / Eastern Japanese
 		primary = JAP
 		dynasty_names = {
@@ -9411,7 +9389,6 @@ japanese_g = {
 
 tibetan_group = {
 	graphical_culture = asiangfx
-
 	tibetan = {
 		primary = UTS
 		dynasty_names = {
@@ -9464,7 +9441,6 @@ tibetan_group = {
 
 filipino_i = {
 	graphical_culture = asiangfx
-	
 	abiog = {
 		male_names = {
 			Agapito Arnulf Arturo Balagtas Bayanai Bayani Eman Ermin Hagibis Issay Kana Kaysar Kirana Makisig Oma Qadan Sarki Shawdi Taban Taite Uba Uday Udell Ugo Ulmer Umed Umi Yaron
@@ -9704,7 +9680,6 @@ filipino_i = {
 
 malay = {
 	graphical_culture = asiangfx
-
 	cham = {
 		primary = CHA
 		dynasty_names = { 
@@ -9996,7 +9971,6 @@ malay = {
 
 southeastasian_group = {
 	graphical_culture = asiangfx
-
 	khmer = {
 		primary = KHM
 		dynasty_names = {
@@ -10084,7 +10058,6 @@ southeastasian_group = {
 
 burman = {
 	graphical_culture = asiangfx
-
 	burmese = {
 		primary = TAU
 		dynasty_names = {
@@ -10163,7 +10136,6 @@ burman = {
 pacific = {
 	graphical_culture = polynesiangfx
 	second_graphical_culture = northamericagfx
-
 	melanesian = {
 		male_names = {
 			"Komala Pulu" Marhum "Zainal Abidin" Bayanullah Hidayatullah "Abu Hayat" Tabariji "Khairun Jamil"
@@ -10271,7 +10243,6 @@ pacific = {
 
 eastern_aryan = {
 	graphical_culture = indiangfx
-
 	assamese = {
 		primary = ASS
 		dynasty_names = {
@@ -10520,7 +10491,6 @@ eastern_aryan = {
 
 hindusthani = {
 	graphical_culture = indiangfx
-
 	avadhi = {
 		primary = ODH
 		dynasty_names = {
@@ -10655,7 +10625,6 @@ hindusthani = {
 
 western_aryan = {
 	graphical_culture = indiangfx
-
 	gujarati = {
 		primary = GUJ
 		dynasty_names = {
@@ -10944,7 +10913,6 @@ western_aryan = {
 
 dravidian = {
 	graphical_culture = indiangfx
-
 	kannada = {
 		primary = MYS
 		dynasty_names = {
@@ -11097,7 +11065,6 @@ dravidian = {
 
 central_indic = {
 	graphical_culture = indiangfx
-
 	gondi = {
 		primary = GDW
 		dynasty_names = {
@@ -11448,7 +11415,6 @@ mande = {
 
 sahelian = {
 	graphical_culture = africangfx
-
 	hausa = {
 		primary = HAU
 		dynasty_names = {
@@ -11666,7 +11632,6 @@ sahelian = {
 
 west_african = {
 	graphical_culture = africangfx
-
 	yorumba = {
 		primary = OYO
 		dynasty_names = {
@@ -12545,7 +12510,6 @@ great_lakes_group = {
 
 african = {	#Eastern Bantu Groups
 	graphical_culture = africangfx
-
 	#Tagless Bantu Cultures:
 	takama = {
 
@@ -12621,7 +12585,6 @@ african = {	#Eastern Bantu Groups
 
 cushitic = {
 	graphical_culture = africangfx
-
 	somali = {
 		primary = ADA
 		dynasty_names = {
@@ -12813,7 +12776,6 @@ cushitic = {
 
 sudanese = {
 	graphical_culture = africangfx
-
 	acholi = {
 	}
 	berta_culture = {
@@ -12968,7 +12930,6 @@ evenks = {
 
 kamchatkan_g = {
 	graphical_culture = inuitgfx
-
 	ainu = {
 		primary = ANU
 		dynasty_names = {
@@ -13402,7 +13363,6 @@ lost_cultures_group = {
 }
 old_germanic_group = {
 	graphical_culture = westerngfx
-	
 	anglosaxon = { #CK2
 		dynasty_names = {
 			Godhelming Beorming Eorling Æbbing Hæsting Ælling Eadricing Eadwulfing Leodwalding
@@ -13902,7 +13862,6 @@ illyrian = {
 
 brythonic = {
 	graphical_culture = westerngfx
-
 	welsh = {
 		graphical_culture = westerngfx
 		primary = WLS
@@ -14091,7 +14050,6 @@ brythonic = {
 
 berber_group = {
 	graphical_culture = persiangfx
-
 	tuareg = {
 	    graphical_culture = africangfx
 		primary = AIR
@@ -14226,7 +14184,6 @@ berber_group = {
 
 turkish_g = {
 	graphical_culture = turkishgfx
-
 	turkish = {
         graphical_culture = turkishgfx
 		primary = TUR
@@ -14304,7 +14261,6 @@ turkish_g = {
 
 egyptian_group = {
 	graphical_culture = muslimgfx
-
 	coptic_culture = {
         graphical_culture = muslimgfx
 		primary = KEM
@@ -14325,7 +14281,6 @@ egyptian_group = {
 
 saharan_group = {
 	graphical_culture = africangfx
-
 	fur_culture = {
 		primary = DAR			#Dafur
 	}
@@ -14377,7 +14332,6 @@ saharan_group = {
 
 miao_g = {
 	graphical_culture = asiangfx
-
 	miao = {
 		primary = CMI
 		dynasty_names = {
@@ -14463,7 +14417,6 @@ khoisan_group = {			#Disproven group, but ah well. It is a grand mess, and this 
 
 jewish_culture_group = {			#Added for BtPLegacy Project's Jewish Modifiers. Unsure if it will be included in Beyond Typus
 	graphical_culture = easterngfx
-
 	ashkenazi = {
 		dynasty_names = {
 			Abiatarid Akabonid Amitid Amramid Boazid Dorid Dovid Eiranid Eleazid Heroid Honioid Hillelid Joazid Kahanid Nahumid Nirid Nogahid
@@ -14553,7 +14506,6 @@ jewish_culture_group = {			#Added for BtPLegacy Project's Jewish Modifiers. Unsu
 #na gCelteach
 unified_celtic_group = {
 	graphical_culture = westerngfx
-
 	celtic_irish_culture = {
 		graphical_culture = westerngfx
 		dynasty_names = { 
@@ -14646,7 +14598,6 @@ unified_celtic_group = {
 	}
 	celtic_highland_scottish_culture = {
 		graphical_culture = westerngfx
-
 		male_names = {
 			Aonghas Alasdair Ailbeart Adhamh Ailean Anndra Arailt Artair Aaron Amhlaidh Ailpein
 			Bhaltair Boisil Brian Benneit Beathan Boisil Brus Bruadar Breacan Bearnard Bhaltair
@@ -14954,7 +14905,6 @@ unified_celtic_group = {
 
 thai_group = {
 	graphical_culture = thaigfx #asiangfx
-
 	central_thai = {
 		primary = AYU
 		dynasty_names = {
@@ -15086,7 +15036,6 @@ thai_group = {
 
 salish_group = {
 	graphical_culture = northamericagfx
-
 	salish = {			#Includes Lushootseed, Twana, and Straits Salish for now. Halkomelem and the rest of the coastal minors like Squamish, Sechelt, Nooksack, Pentlach, pre-Wakashan Comox moved to Halkomelem culture.
 		primary = SAL
 		dynasty_names = {
@@ -15277,7 +15226,6 @@ salish_group = {
 
 southern_uto_aztecan = {
 	graphical_culture = northamericagfx
-
 	piman = {
 		primary = PIM
 		dynasty_names = {
@@ -15343,7 +15291,6 @@ southern_uto_aztecan = {
 
 pacific_na_dene = {
 	graphical_culture = northamericagfx
-
 	umpqua = {
 		primary = YYM
 		dynasty_names = {
@@ -15378,7 +15325,6 @@ pacific_na_dene = {
 
 hokan = {
 	graphical_culture = northamericagfx
-
 	washoe = {
 		primary = WAS
 	}
@@ -15417,7 +15363,6 @@ hokan = {
 
 dorset = {
 	graphical_culture = northamericagfx
-
 	tuniit = {
 		primary = YZE
 		male_names = {
@@ -15435,7 +15380,6 @@ dorset = {
 
 chumash_group = {
 	graphical_culture = northamericagfx
-
 	chumash = {
 		primary = CHS
 	}
@@ -15459,7 +15403,6 @@ chumash_group = {
 
 mosan_culture_group = {
 	graphical_culture = northamericagfx
-
 	#Note the Mosan division, one of Sapir's, is conclusively disproven as far as I'm concerned. Nevertheless, it is a
 	#valid and feasible idea to put all these troublesome little one-culture-per-group cultures into a single group and
 	#call it Mosan. Is extremely attractive from a gameplay and continuity point of view, and you can't exactly say they
@@ -15489,7 +15432,6 @@ mosan_culture_group = {
 
 arawakan_g = {
 	graphical_culture = southamericagfx
-
 	arawak = { #Taino
 	}
 	west_taino = { #Ciboney
@@ -15518,7 +15460,6 @@ arawakan_g = {
 
 cariban_g = {
 	graphical_culture = southamericagfx
-
 	carib = {
 		primary = CAB
 	}
@@ -15539,7 +15480,6 @@ cariban_g = {
 
 chimakuan = {
 	graphical_culture = northamericagfx
-
 	quileute = {			#Language isolate. Strong links with Salish, but also very strong rivalry, so I want this in another group.
 		primary = YYH
 		dynasty_names = {
@@ -15567,7 +15507,6 @@ chimakuan = {
 
 wakashan_group = {
 	graphical_culture = northamericagfx
-
 	wakashan = { #Likely an Eskaleut language in origin, though evidence suggests that even if so, these peoples split off a long time ago (1000s of years)
 		primary = NOO
 		male_names = {
@@ -15585,7 +15524,6 @@ wakashan_group = {
 
 ktunaxa_group = {
 	graphical_culture = northamericagfx
-
 	ktunaxa = {			#Used to be in the Salish group, due to later associations as a compromise, but really isn't Salishan. Ended up putting it in its own group when it got more than 2 provinces.
 		primary = KTX
 		dynasty_names = {
@@ -15613,7 +15551,6 @@ ktunaxa_group = {
 
 pacific_algonquian_group = {			#Yurok and Wiyot. I had these in with central Algonquian before but.... it doesn't really fit to have a single province with this culture 30 provinces away from its nearest relative in the group. Is a bit like a single west Slavic province on the coast of Morocco.
 	graphical_culture = northamericagfx
-
 	wiyot = {
 		primary = YYP
 		dynasty_names = {
@@ -15640,7 +15577,6 @@ pacific_algonquian_group = {			#Yurok and Wiyot. I had these in with central Alg
 
 papuan_group = {
 	graphical_culture = polynesiangfx
-
 	papuan = {
 		male_names = {
 			Agolave Akelika-Yaga Amborn Andagalimp-Wak Barunoma Buassi Endemongo Ewunga-Goiba Gaima-Yokumul Gasowe
@@ -15667,7 +15603,6 @@ papuan_group = {
 aboriginal_australian = {
 	graphical_culture = aboriginalgfx
 	second_graphical_culture = africangfx
-
 	aboriginal = { #(Kuric) Eora/East Coast
 		primary = EOR
 		male_names = {
@@ -15910,7 +15845,6 @@ aboriginal_australian = {
 
 taiwanese_group = {
 	graphical_culture = asiangfx
-
 	formosan_culture = {
 		dynasty_names = {
 			Aalona Ahulani Ainalani Akeakamai Alani Aluala Alealani Alohilani Anakalia Anuenue "'Ehukai" "'Ewalani" "Ha'aheo" Heleakala
@@ -15942,7 +15876,6 @@ taiwanese_group = {
 
 septrional_creoles = {
 	graphical_culture = northamericagfx
-
 	metis = {
 		graphical_culture = northamericagfx
 		dynasty_names = {
