@@ -147,7 +147,7 @@ can_colonize_province = {
 							continent = south_america
 						}
 					}
-					is_former_colonial_nation = yes
+					is_subject = no
 				}
 			}
 		}
@@ -201,7 +201,7 @@ can_colonize_province = {
 							continent = south_america
 						}
 					}
-					is_former_colonial_nation = yes
+					is_subject = no
 				}
 			}
 		}
@@ -257,7 +257,7 @@ can_colonize_province = {
 							continent = south_america
 						}
 					}
-					is_former_colonial_nation = yes
+					is_subject = no
 				}
 			}
 		}
