@@ -6688,12 +6688,13 @@ country_event = {
 				AND = {
 					OR = {
 						has_building = workshop
+						has_building = counting_house 
 					}
 					NOT = { has_province_modifier = Promoted_Industry }
 				}
 				AND = {
 					OR = {
-						has_building = counting_house 
+						has_building = treasury 
 						has_building = factory
 					}
 					NOT = { has_province_modifier = Promoted_Industry_v2 }
@@ -6710,7 +6711,8 @@ country_event = {
 		every_owned_province = {
 			limit = {
 				OR = {
-					has_building = workshop 
+					has_building = workshop
+					has_building = counting_house
 				}
 				NOT = {	has_province_modifier = Promoted_Industry }
             }
@@ -6723,7 +6725,7 @@ country_event = {
 		every_owned_province = {
 			limit = {
 				OR = {
-					has_building = counting_house 
+					has_building = treasury
 					has_building = factory
 				}
 				NOT = {	has_province_modifier = Promoted_Industry_v2 }
