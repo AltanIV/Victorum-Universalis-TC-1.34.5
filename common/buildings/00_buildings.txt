@@ -5618,6 +5618,7 @@ farm_estate = {
 		potato
 		rice
 		tomato
+		vegetables #Makes sense to have vegetables in a farm doesn't it ?
 		vodka
 		wine
 		whiskey
