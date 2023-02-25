@@ -3,7 +3,8 @@
 #Area - Provence
 
 owner = PRO
-controller = PRO 
+controller = PRO
+add_core = PRO
 capital = "Toulon"
 is_city = yes
 culture = aquitaine
@@ -13,8 +14,6 @@ base_tax = 3
 base_production = 3
 trade_goods = gunpowder	#was naval_supplies
 base_manpower = 2
-add_core = PRO
-add_core = ANJ
 center_of_trade = 1
 
 add_permanent_province_modifier = {
