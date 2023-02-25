@@ -1627,6 +1627,9 @@ cape_of_good_hope={
 }
 ivory_coast={
 	location=1466
+	color={
+		255 150 12
+	}
 	outgoing={
 		name="carribean_trade"
 		path={
