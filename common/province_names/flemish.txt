@@ -34,6 +34,7 @@
 236 = "Londen"
 266 = "Praag"
 267 = "Pilsen"
+1177 = { "Kaapkolonie" "Kaapkolonie" }
 1743 = "Kamerijk"
 1744 = "Antwerpen"
 1761 = "Palts"

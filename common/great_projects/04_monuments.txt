@@ -6763,6 +6763,41 @@ kasteel_batavia = {
 		on_upgraded = {
 		}
 	}
+	
+	tier_3 = {
+		#time to upgrade to this level (0 for tier 0)
+		upgrade_time = {
+			months = 480
+		}
+
+		#cost to upgrade to this level (0 for tier 0)
+		cost_to_upgrade = {
+			factor = 14000
+		}
+
+		#what modifiers are added to the province when we have this project here on this tier
+		province_modifiers = {
+		   fort_level = 3
+		   local_defensiveness = 0.35
+		}
+
+		#what modifiers are added to the provinces in the map area when we have this project here on this tier
+		area_modifier = {
+		   regiment_recruit_speed = -0.45
+		}
+
+		#what modifiers are added to the country when we have this project here on this tier
+		country_modifiers = {
+		   fort_maintenance_modifier = -0.25
+		   merchants = 2
+		   global_ship_trade_power = 0.2
+		   special_unit_forcelimit = 0.3
+		}
+
+		#what effects happen when this tier is achieved
+		on_upgraded = {
+		}
+	}
 }	
 
 l_anse_aux_meadows = {

@@ -2071,6 +2071,7 @@
  vu_pop_influence.2.a:0 "Purchase only a modest number of slaves."
  vu_pop_influence.2.b:0 "We shouldn't rely on slave labor."
  vu_pop_influence.2.c:0 "Let us industrialize!"
+ vu_pop_influence_industry_province_counter: "VU Pop Influence Industry Province Counter."
  #
  vu_pop_influence.3.t:0 "Investing in Absolute Slavery"
  vu_pop_influence.3.d:0 "Despite the hideous nature and immoral practice of Slavery, it is absolutely necessary that we purchase Slaves to work on our growing number of plantations until our nation innovates an alternative means."

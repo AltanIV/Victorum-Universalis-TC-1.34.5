@@ -375,7 +375,7 @@ east_african_diplomatic_slot = {
 		provinces_to_highlight = {
 			OR = {
 				province_id = 1340
-				province_id = 4346
+				province_id = 1331
 			}
 		}
 		trigger = {
@@ -386,7 +386,7 @@ east_african_diplomatic_slot = {
 					share = 25
 				}
 			}
-			4346 = {
+			1331 = {
 				has_merchant = PREV
 				trade_share = {
 					country = ROOT

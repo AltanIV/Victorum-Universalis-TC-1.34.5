@@ -36,12 +36,19 @@ dreamtime_1 = {
 		icon = mission_retake_ceuta
 		required_missions = { }
 		provinces_to_highlight = {
-			area = southern_australia_area
+			OR = {
+			    area = southern_australia_area
+				area = tasmania_area
+			}
 			NOT = { country_or_non_sovereign_subject_holds = ROOT }
         }
 		position = 2
 		trigger = {
 			southern_australia_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			tasmania_area = {
 				type = all
 				country_or_non_sovereign_subject_holds = ROOT
 			}

@@ -39,7 +39,7 @@
 
 #VU - Australia by NoobMiner72
 1084 = { "Perth" "Perth" }
-1085 = { "Hobart" "Hobart" }
+1085 = { "Buckingham" "Hobart" }
 1086 = { "Adelaide" "Port Adelaide" }
 1087 = { "Melbourne" "Melbourne" }
 1088 = { "Bendigo" "Bendigo" }
@@ -60,6 +60,11 @@
 2734 = { "Port Albert" "Port Albert" }
 2735 = { "Mount Gambier" "Mount Gambier" }
 2736 = { "Hopetown" "Hopetown" }
+3780 = { "East Devon" "Devonport" }
+3781 = { "Meredith Range" "Queenstown" }
+3783 = { "Glamorgan" "Swansea" }
+3784 = { "Montgomery" "Macquarie Harbour" }
+3785 = { "West Devon" "Emu Bay" }
 4846 = { "Palmerston" "Darwin" }
 4847 = { "Barkly" "Tennant Creek" }
 4848 = { "Bourke" "Bourke" }
@@ -82,8 +87,8 @@
 4865 = { "Ashburton" "Karratha" }
 4866 = { "Pilbara" "Port Hedland" }
 4867 = { "Kimberley" "Easton" }
-4868 = { "Launceston" "Launceston" }
-4869 = { "Queenstown" "Queenstown" }
+4868 = { "Dorset" "Launceston" }
+4869 = { "Wellington" "Smithton" }
 
 #VU - New Zealand by NoobMiner72
 1106 = { "Northland" "Whangarei" }

@@ -1,4 +1,4 @@
-#783 - Alacaluf
+#783 - Patagonia Occidental
 
 owner = YAG
 controller = YAG
@@ -6,7 +6,7 @@ add_core = YAG
 culture = yahgan
 religion = animism
 capital = "Alacaluf"
-trade_goods = unknown
+trade_goods = fish
 hre = no
 base_tax = 1  
 base_production = 1 
@@ -15,10 +15,10 @@ native_size = 7
 native_ferocity = 2
 native_hostileness = 9
 
-add_permanent_province_modifier = {
-    name = vu_malaria_present
-    duration = -1
-}
+#add_permanent_province_modifier = {
+#    name = vu_malaria_present
+#    duration = -1
+#}
 
 1520.1.1 = { discovered_by = SPA } # Discovered by Ferdinand Magellan
 1776.1.1 = {	

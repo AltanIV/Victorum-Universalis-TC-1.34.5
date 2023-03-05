@@ -2608,7 +2608,7 @@
 	}
 
 	chhetri_clans_reform = {
-		icon = tribal_federation
+		icon = chhetri_clans_reform
 		allow_normal_conversion = yes
 		effect = {
 			change_variable = {
