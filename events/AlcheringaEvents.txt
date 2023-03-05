@@ -17,6 +17,10 @@ country_event = {
 			type = all
 			country_or_non_sovereign_subject_holds = ROOT
 		}
+		tasmania_area = {
+			type = all
+			country_or_non_sovereign_subject_holds = ROOT
+		}
 	}
 
 	immediate = {

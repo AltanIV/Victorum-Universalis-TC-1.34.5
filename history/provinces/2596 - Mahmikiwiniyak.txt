@@ -1,4 +1,4 @@
-# No previous file for Mahmikiwiniyak
+#2596 - Mahmikiwiniyak
 
 owner = NEH
 controller = NEH
@@ -15,8 +15,6 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
-
-
 
 discovered_by = north_american
 

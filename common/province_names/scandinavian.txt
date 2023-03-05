@@ -1,5 +1,6 @@
+#Scandinavian Province & City Names
 #PROVID = "PROVNAME" "CITY"
-#xxxxxx = "xxxxxxxx" "xxxx"
+#xxxxxx = { "xxxxxxxx" "xxxx" }
 1 = "Svíthjódh" #Agnafit #œ
 2 = "Austrgautland" #Linköking = Lyngkaupstadhur
 3 = "Moere" #Kalmar = Kalmarnir

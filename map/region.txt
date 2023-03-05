@@ -1221,6 +1221,7 @@ australia_region = {
 		southern_australia_area
 		top_end_area
 		murray_river_area
+		tasmania_area
 	}
 	monsoon = {
 		00.10.01

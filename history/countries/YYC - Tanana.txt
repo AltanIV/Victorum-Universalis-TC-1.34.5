@@ -4,7 +4,7 @@ government_rank = 1
 primary_culture = tanana
 religion = totemism
 technology_group = north_american
-capital = 4931
+capital = 5189
 
 
 1444.11.11 = {

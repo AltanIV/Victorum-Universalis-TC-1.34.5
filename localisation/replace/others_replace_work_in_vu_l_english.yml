@@ -353,6 +353,9 @@
  MPA_ADJ:0 "Pai"
  MNI_ADJ:0 "Nai"
  MKA_ADJ:0 "Kawng"
+ MLG:0 "Malkana"
+ MLG_ADJ:0 "Malkana"
+ 
  MPH:0 "Muang Phuan" #Spelt incorrectly in base game
  MPH_ADJ:0 "Phuan"
  TAU:0 "Toungoo" #This is optional; I'm somewhat sure Toungoo is the Anglicization
@@ -949,4 +952,19 @@
  age_of_revolutions:0 "The Age of Revolutions"
  age_of_revolutions_short:0 "Age of Revolutions"
  age_of_revolutions_desc:1 "The questioning of rights, authority and the world itself during the Enlightenment has led to the rejection of the Ancient Regime. As Absolutism gives way to Revolution kingdoms may have to make place for Republics."
- 
+ #
+ northern_australia_area:1 "Queensland"
+ northern_australia_area_name:2 "Queensland"
+ northern_australia_area_adj:2 "Queenslander"
+ #
+ western_australia_area:2 "Western Australia"
+ western_australia_area_name:0 "Western Australia"
+ western_australia_area_adj:0 "Western Australian"
+ #
+ top_end_area:0 "Northern Territories"
+ top_end_area_name:1 "Northern Territories"
+ top_end_area_adj:1 "Top Ender"
+ #
+ murray_river_area:1 "South Australia"
+ murray_river_area_name:1 "South Australia"
+ murray_river_area_adj:1 "South Australian"

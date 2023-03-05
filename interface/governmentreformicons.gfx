@@ -1135,6 +1135,10 @@ spriteTypes = {
 		name = "government_reform_abolish_the_haandfaestning_reform"
 		texturefile = "gfx//interface//government_reform_icons//abolish_the_haandfaestning_reform.dds"
 	}
+	spriteType = {
+		name = "government_reform_chhetri_clans_reform"
+		texturefile = "gfx//interface//government_reform_icons//chhetri_clans_reform.dds"
+	}
 	#spriteType = {
 	#	name = "government_reform_self_governing_dominion_vu_government"
 	#	texturefile = "gfx/interface/government_reform_icons/self_governing_dominion_vu_government.dds"
