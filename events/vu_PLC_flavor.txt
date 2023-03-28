@@ -1543,6 +1543,7 @@ country_event = { # Sejm of Lublin 1569
 					area = eastern_volhynia_area
 					area = sloboda_ukraine_area
 					area = severia_area
+					area = yedisan_area
 					province_id = 7237
 					province_id = 3223
 					province_id = 7262

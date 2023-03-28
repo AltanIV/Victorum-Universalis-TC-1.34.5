@@ -212,7 +212,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 5234;5236;sea;1432;-1;-1;-1;-1;Kolombangara-New Georgia
 5236;5237;sea;1432;-1;-1;-1;-1;New Georgia-Rendova
 5236;5238;sea;1432;-1;-1;-1;-1;New Georgia-Vangunu
-1088;6199;sea;7352;-1;-1;-1;-1;Wergaia - Barundji
+3851;3837;sea;7352;-1;-1;-1;-1;South Barkindji - North Barkindji
+3779;4868;sea;1414;-1;-1;-1;-1;Wybalenna - Pyemmairrener
 1001;5039;sea;1661;-1;-1;-1;-1;Soto-Manidoowaaling
 911;1001;sea;1663;-1;-1;-1;-1;Menominee-Sault
 911;5039;sea;1661;-1;-1;-1;-1;Belem-Manidoowaaling
@@ -605,7 +606,9 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 644;5449;sea;1399;-1;-1;-1;-1;Manado-Sangihe
 5253;5254;sea;1430;-1;-1;-1;-1;Vanua-Ambae
 5260;5259;sea;1430;-1;-1;-1;-1;Efate-Epi
-6207;2730;sea;1430;-1;-1;-1;-1;Torres Islands-Awngthim
+6207;3786;sea;1430;-1;-1;-1;-1;Torres Islands-Wuthathi
+2728;3891;sea;1408;-1;-1;-1;-1;Tiwi-Iwaidji
+3889;6205;sea;1410;-1;-1;-1;-1;Alyangula-Yolngu
 640;8680;sea;1363;-1;-1;-1;-1;Sambas-Serasan
 659;2677;sea;1361;-1;-1;-1;-1;Lingga-Jambi
 2679;2678;sea;1360;-1;-1;-1;-1;Belitung-Bangka

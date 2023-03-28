@@ -4,7 +4,7 @@ government_rank = 1
 primary_culture = aleutian
 religion = totemism
 technology_group = north_american
-capital = 4920
+capital = 5173
 
 
 1444.11.11 = {

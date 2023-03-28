@@ -3,15 +3,18 @@
 add_core = PTJ
 owner = PTJ
 controller = PTJ
+is_city = yes
 culture = yura
 religion = dreamtime
+capital = "Wergaia"
+trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = unknown
 base_manpower = 1
-capital = "Wergaia"
-is_city = yes
+native_size = 5
+native_ferocity = 1
+native_hostileness = 9
 
 discovered_by = aboriginal_tech
 

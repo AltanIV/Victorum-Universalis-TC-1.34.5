@@ -1,4 +1,4 @@
-# No previous file for Beyond Typus province
+#5077 - Sivuqaq
 
 culture = yupik
 religion = totemism 
@@ -15,7 +15,6 @@ native_hostileness = 3
 #discovered_by = north_american
 #discovered_by = bt_athabaskan_tech
 #discovered_by = bt_inuit_tech
-
 
 1728.1.1 = { discovered_by = RUS } #Vitus Bering
 

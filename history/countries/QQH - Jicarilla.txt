@@ -4,7 +4,7 @@ government_rank = 1
 primary_culture = navajo
 religion = totemism
 technology_group = north_american
-capital = 2496
+capital = 2492
 
 
 1444.1.1 = {

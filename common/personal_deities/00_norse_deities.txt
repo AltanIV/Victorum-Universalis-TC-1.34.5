@@ -127,7 +127,7 @@ njord =
 snotra =
 {
 	technology_cost = -0.05
-	build_cost = -0.1
+	spy_offence = 0.2
 	
 	allow = { religion = norse_pagan_reformed }
 	sprite = 12

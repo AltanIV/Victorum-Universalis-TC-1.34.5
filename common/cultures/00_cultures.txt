@@ -1252,6 +1252,65 @@ germanic = {
         graphical_culture = westerngfx
 		#primary = #no tag so no seperatists
 	}
+	
+	# Brazil CR
+	hunsrik = {
+        graphical_culture = westerngfx
+	}
+	
+	# La Plata, Chile CR
+	argentiner = {
+        graphical_culture = westerngfx
+	}
+	
+	# Colombia, Venezuela, Ecuador CR
+	deutschkolumbian = {
+        graphical_culture = westerngfx
+	}
+	# Cuba CR
+	kubaner = {
+        graphical_culture = westerngfx
+	}
+	
+	# Mexico CR
+	mexikaner = {
+        graphical_culture = westerngfx
+	}
+	
+	# Eastern America, Mississippi, Great Lakes, Louisiana, Florida
+	pennsilfaanisch = {
+        graphical_culture = westerngfx
+	}
+	
+	# California CR
+	kalifornier = {
+        graphical_culture = westerngfx
+	}
+	
+	# Acadia, Canada, Newfoundland CR
+	neu_prussian = {	
+        graphical_culture = westerngfx
+	}
+	
+	# Alaska CR
+	alaskaner = {
+        graphical_culture = westerngfx
+	}
+	
+	# Cape CR
+	afrikaner = {
+        graphical_culture = westerngfx
+	}
+	
+	#Australia CR
+	a ustralier = {
+        graphical_culture = westerngfx
+	}
+	
+	# New Zealand CR
+	seelander = {
+        graphical_culture = westerngfx
+	}
 }
 
 low_franconian = {
@@ -1341,10 +1400,11 @@ low_franconian = {
         graphical_culture = westerngfx
 		primary = EFR
 	}
+	
 	#Cape CR
 	afrikaner_culture = {
 		#primary = XXX
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 		male_names = {
 			Adriaen Albrecht Albert Alwin Ambroos Antoon Arnold Arnold Arnulf Arnulf Balderik Barend Barnaerd Bernard Bartolomeus Bartolomeus Bavo Bertold Boudewijn Baldwin Claes Nicholas Claeuwaert Daevit David Damaes Diederick Thierry Dirk Thierry Douwe Eduard Edward Egmund Ekbert Emmo Engelbrecht Filips Philip Floris Folbert Frans Francis Frederik Frederick Gerard Gerolt Gerulf Gerrit Gijsbrecht Giselbert Gilbert Godfried Godfrey Godschalk Gozewijn Guij Guy Gwijde Gwijde Hendrik Henry Herman Herman Hubert Hugo Hugh Ijsbrand Ijsbrecht Jacco Jacob Jan John Karel Charles Koenraad Konrad Kristof Christopher Lambert Lambert Lodewijk Louis Ludewijn Lutbert Luthard Maertijn Martin Marquart Niclaes Nicholas Olivier Oliver Otto Otto Otwin Onno Pieter Peter Reinaerd Reinoud Reinhold Reginar Robrecht Robert Robert Robert Rodulf Roelof Roland Rutger Sebastiaen Sebastian Sicco Simon Steven Stephen Steyn Sten Theodolf Waelram Walter Walter Wicher Willem William Wolfard Hendrik Maurits Adriaan Andries Antonius Gaspar Isaac Johan Laurens Paul Abraham Barthout Christiaan Christoffel Constantijn Cornelis Daniel Eise Gabriel Gerben Hans Jeroen Joost Nicolaas Roeland Rogier Thomas Vincent Zacharias
 		}
@@ -1355,17 +1415,20 @@ low_franconian = {
 			"van Oranje" Nassau "van Wassenberg" "van Henegouwen" "de Friesland" "van Haspinga" "van Limburg" "von der Mark"	"van Leuven" "van Brabant" "van Egmont" "de Reginar" "De Boer" "De Verwoed"
 		}
 	}
+	
 	#Dutch Guyana CR
 	surinamer = {
-            graphical_culture = westerngfx
+        graphical_culture = westerngfx
 	}
+	
 	#Dutch Antilles CR
 	antillianen = {
-    		graphical_culture = westerngfx
+    	graphical_culture = westerngfx
 	}
+	
 	#Dutch Eastern America CR
 	jersey_dutch = {
-			graphical_culture = westerngfx
+		graphical_culture = westerngfx
 	}
 }
 #VU addition alemannic = { #Although is Germanic, I've decided to give this culture it's own group so as to better
@@ -1554,7 +1617,8 @@ british	= {
 			Una
 		}
 	}
-	#British Eastern America, Great Lakes, Mississippi, Louisiana, Texas, California CR
+	
+	#British Eastern America, Great Lakes, Mississippi, Louisiana, California CR
 	american = {
         graphical_culture = westerngfx
 		primary = USA
@@ -1634,7 +1698,8 @@ british	= {
 			Young Yelverton Youngs
 		}
 	}
-	#British Eastern America, Great Lakes, Mississippi, Louisiana, Texas, California CR
+	
+	#British Eastern America, Mississippi, Louisiana, Texas, Florida CR
 	dixie = {
         graphical_culture = westerngfx
 		primary = USA
@@ -1714,6 +1779,7 @@ british	= {
 			Young Yelverton Youngs
 		}
 	}
+	
 	#Beyond the Pale Culture
 	northumbrian = {
 		graphical_culture = westerngfx
@@ -1788,7 +1854,7 @@ british	= {
 			Maria Matilda Mary
 		}
 	}
-	#VU - Cultures by Noobminer72
+	
 	#Australia CR
 	aussie = {
 		graphical_culture = westerngfx
@@ -1809,7 +1875,7 @@ british	= {
 			Maria Matilda Mary Michelle Kylie Kayla Enid Ethel Hazel Victoria 
 		}
 	}
-	#VU - Cultures by Noobminer72
+	
 	#New Zealand CR
 	kiwi= {
 		graphical_culture = westerngfx
@@ -1830,7 +1896,7 @@ british	= {
 			Maria Matilda Mary Michelle Kylie Kayla Enid Ethel Hazel Victoria Jacinda Helen Jenny
 		}
 	}
-	#VU - Cultures by San Felipe
+	
 	#British Antilles CR
 	british_bahamian = { #Bahamian
 		graphical_culture = westerngfx
@@ -1851,7 +1917,7 @@ british	= {
 			Maria Matilda Mary Michelle Kylie Kayla Enid Ethel Hazel Victoria 
 		}
 	}
-	#VU - Cultures by San Felipe
+	
 	#British Central America CR
 	british_belizeans = { #Belizeans
 		graphical_culture = westerngfx
@@ -1971,7 +2037,7 @@ british	= {
 			Maria Matilda Mary Michelle Kylie Kayla Enid Ethel Hazel Victoria 
 		}
 	}
-	#VU - Cultures by San Felipe
+	
 	#British Guyana CR
 	british_guyanese = {
 		graphical_culture = westerngfx
@@ -1992,6 +2058,7 @@ british	= {
 			Maria Matilda Mary Michelle Kylie Kayla Enid Ethel Hazel Victoria 
 		}
 	}
+	
 	#British Cape CR
 	british_south_african = { #South African
 		graphical_culture = westerngfx
@@ -2144,6 +2211,8 @@ british	= {
 			Trifine Tristana Uriell Seva Perenn Meonre Ilcum Drichglur Berthildis Argantmoet
 		}
 	}
+	
+	#British Acadia, Canada, Newfoundland, Hudson Bay, Northwestern Territories, Cascadia CR
 	canadian = {
 		primary = CAN
 	}
@@ -2677,6 +2746,7 @@ iberian	= {
         graphical_culture = latingfx
 		primary = CAS
 	}
+	
 	#Iberian Mexico CR
 	mexican = {
             graphical_culture = latingfx
@@ -2709,6 +2779,7 @@ iberian	= {
 			Isabel
 		}
 	}
+	
 	#Iberian La Plata, Chile CR
 	platinean = {
 		graphical_culture = latingfx
@@ -2741,6 +2812,7 @@ iberian	= {
 			Isabel
 		}
 	}
+	
 	#Iberian Venezuela, Colombia, Ecuador CR
 	colombian = {
 		graphical_culture = latingfx
@@ -2773,7 +2845,8 @@ iberian	= {
 			Isabel
 		}
 	}
-	#Iberian Peru, Bolovia CR
+	
+	#Iberian Peru, Bolivia CR
 	peruvian = {
 		graphical_culture = latingfx
 		#primary = LAP
@@ -2805,6 +2878,7 @@ iberian	= {
 			Isabel
 		}
 	}
+	
 	#Iberian Cuba CR
 	cuban = {
         graphical_culture = latingfx
@@ -2837,6 +2911,7 @@ iberian	= {
 			Isabel
 		}
 	}
+	
 	#Iberian Hispaniola CR
 	dominican = {
         graphical_culture = latingfx
@@ -2869,6 +2944,7 @@ iberian	= {
 			Isabel
 		}
 	}
+	
 	#Iberian Antilles CR
 	iberian_caribbean = {
         graphical_culture = latingfx
@@ -2901,6 +2977,7 @@ iberian	= {
 			Isabel
 		}
 	}
+	
 	#Iberian Central America CR
 	centroamerican = {
         graphical_culture = latingfx
@@ -2933,6 +3010,7 @@ iberian	= {
 			Isabel
 		}
 	}
+	
 	#Iberian Texas CR
 	tejano = {
         graphical_culture = latingfx
@@ -2965,6 +3043,7 @@ iberian	= {
 			Isabel
 		}
 	}
+	
 	#Iberian California CR
 	californio = {
         graphical_culture = latingfx
@@ -2997,6 +3076,7 @@ iberian	= {
 			Isabel
 		}
 	}
+	
 	#Iberian Florida CR
 	floridan = {
         graphical_culture = latingfx
@@ -3085,6 +3165,7 @@ iberian	= {
 			Maria Marquesa Marquise Sança Sancha Sibila Sibylla Teresa Teresa Toda Toda Violant Yolanda
 		}
 	}
+	
 	#Iberian Brazil CR
 	brazilian = {
 		graphical_culture = latingfx
@@ -3353,31 +3434,37 @@ french	= {
 			Adalmode Adelaide Adelinde Agathe Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde Berthe Blanche Bonne Bourgogne Bourguigne Charlotte Constance Denise Douce Echive Eglantine Elisabeth Emma Ermengarde Ermessinde Esclarmonde Euphrosine Eustachie Eve Gerberge Guillaumette Helvis Hodierne Ide Ildégarde Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe Mascarose Mathilde Pernelle Perinne Pernette Plaisance Raymonde Sarrazine Sophie Sybille Tiburge Valence Yolande
 		}
 	}
+	
 	#French Mississippi, Louisiana, Great Lakes CR
 	louisianans = {
         graphical_culture = westerngfx
 		primary = LOU
 	}
-	#French Acadia, Canada CR
+	
+	#French Acadia, Canada, Newfoundland CR
 	quebecois = {
         graphical_culture = westerngfx
 		primary = QUE
 	}
+	
 	#French Hispaniola CR
 	haitian = {
         graphical_culture = westerngfx
 		#primary = QUE
 	}
+	
 	#French Guyana CR
 	french_guyanese = {
         graphical_culture = westerngfx
 		#primary = QUE
 	}
+	
 	#French Antilles CR
 	martinique = {
         graphical_culture = westerngfx
 		#primary = QUE
 	}
+	
 	#Beyond the Pale Culture
 	arpitan = {
 	    graphical_culture = westerngfx
@@ -15792,6 +15879,39 @@ aboriginal_australian = {
 			Oola Orana Orani Pangari Pengana Pierah Weema Wihelma Wilga Wilhemine Willa Wilmette Wyla Wyuna Yani Yara Yaralla
 
 			#shared names
+			Alkawari Allira Angoona Anmari Babawar Bando Binda Binmarray Biralee Bunji Chumbuli Colba Darana
+			Illarah Karri Kirrili Kyeema Lilardia Maroochy Mirrin Munandjarra Myaree Naata Ngoia Ningali Nowalingu
+			Nymbulda Nyurapayia Oodgeroo Papalya Parara Patiseba Payu Pirrmangka Takariya Talei Tallara Tatali Tjunkiya
+			Truganina Truganini Truganner Walangkura Watorea Wintjiya Yakari Yalamay Yinarupa Yindi
+
+			Adina Alinta Alira Arika Birindabella Cardinia Inala Jindalee Kareela Killara Lowanna Merri Pemau Waratah
+		}
+	}
+	warlpiri = {
+		primary = WLP
+		male_names = {
+			Jakamarra Jungarrayi Jampijinpa Japanangka
+
+			#shared names
+			Adoni Akama Allambee Amaroo Apari Araluen Araluen Arunta Balun Balunn Dural Ganan Gelar Girra Jarrah
+			Jerara Jirra Kalti Maka Mallee Mandu Marron Matari Mearann Minar Miro Mogo Monti Mowan Odern Orad Parri
+			Pindan Pindari Taree Tewart Tuart Uwan Warra Warrain
+			
+			Babawar Bambam Binyan Birrinbirrin Bunji Cambul Darana Dayindi Djarrjuntjun Dural Gabii Gambuu Marrii
+			Minygululu Nadi Nullah Nyakul Nyukuti Omeo Ridjimiraril Tidam Toba Umbarra Waku Watorea Yarran Yeeralparil
+			Yibaay Yileen
+
+			Colebee Iluka Killara Merriman Warragul Warrin Yannthan Yarramundi
+		}
+		female_names = {
+			Nakamarra Nungarrayi Nampijinpa Napanangka
+
+			#shared names
+			Akala Alba Alinga Alkina Alkira Allirea Allora Allunga Amarina Anka Apanie Coorah Coreen Corowa Darri
+			Ekala Elouera Gedala Gheera Kala Kamballa Karri Karuah Katyin Kayle Kiah Kimba Kirra Kolora
+			Koorine Maiya Mallana Manilla Manya Marinna Marlee Mayra Meera Merinda Merindah Neridah Niley Noora Olba Olono
+			Oola Orana Orani Pangari Pengana Pierah Weema Wihelma Wilga Wilhemine Willa Wilmette Wyla Wyuna Yani Yara Yaralla
+			
 			Alkawari Allira Angoona Anmari Babawar Bando Binda Binmarray Biralee Bunji Chumbuli Colba Darana
 			Illarah Karri Kirrili Kyeema Lilardia Maroochy Mirrin Munandjarra Myaree Naata Ngoia Ningali Nowalingu
 			Nymbulda Nyurapayia Oodgeroo Papalya Parara Patiseba Payu Pirrmangka Takariya Talei Tallara Tatali Tjunkiya
